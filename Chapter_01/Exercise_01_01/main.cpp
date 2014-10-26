@@ -1,4 +1,3 @@
-
 /**
  * Dummy program used to verify the development environment setup.
  * 
