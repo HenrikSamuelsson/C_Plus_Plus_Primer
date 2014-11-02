@@ -1,6 +1,6 @@
 Determine the type and the difference among the following groups of literals. 
 
-**'a', L'a', "a", L"a"**
+**'a', L'a', "a", L"a"**  
 All of the above literals reprsents the letter a but in differents forms.
 
 'a' &nbsp;&nbsp; Character literal included in the most basic source character set on the system.  
@@ -26,3 +26,11 @@ The five first of the above literals represents the decimal number 10 but in dif
 
 0xC &nbsp;&nbsp; Signed int representation, written in hexadecimal form.
 
+**3.14, 3.14f, 3.14L**  
+The above literals all hold (approximaly) the value 3.14 but it will possibly be stored in different ways in memory.  
+
+3.14 &nbsp;&nbsp; Will be stored as a double.  
+
+3.14f &nbsp;&nbsp; Will be stored as a float, meaning that i might use less memory to be stored than the double version, but will also be less precise.  
+
+3.14L &nbsp;&nbsp; Will be stored as a long double.
