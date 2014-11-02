@@ -1,7 +1,7 @@
 Determine the type and the difference among the following groups of literals. 
 
 **'a', L'a', "a", L"a"**  
-All of the above literals reprsents the letter a but in differents forms.
+All of the above literals reprsents the letter a, but in differents forms.
 
 'a' &nbsp;&nbsp; Character literal included in the most basic source character set on the system.  
 
