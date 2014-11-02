@@ -42,6 +42,6 @@ The three first literals hold the value 10. The last holdes the value 0.1.
 
 10u &nbsp;&nbsp; This is a unsigned int.  
 
-10. &nbsp;&nbsp; This is a double.  
+10.&nbsp;&nbsp;&nbsp; This is a double.  
 
 10e-2 &nbsp;&nbsp; This is a double written in exponential representation.
