@@ -3,7 +3,7 @@ Determine the type and the difference among the following groups of literals.
 **'a', L'a', "a", L"a"**  
 All of the above literals reprsents the letter a, but in differents forms.
 
-'a' &nbsp;&nbsp; Character literal included in the most basic source character set on the system.  
+'a' &nbsp;&nbsp; Character literal, included in the most basic source character set on the system.  
 
 L'a' &nbsp;&nbsp; A wide character literal, type is wchar_t, this type can on some systems represent a greater number of characters than the basic set. 
 
