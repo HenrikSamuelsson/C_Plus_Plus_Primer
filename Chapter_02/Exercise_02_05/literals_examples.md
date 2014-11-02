@@ -11,7 +11,7 @@ L'a' &nbsp;&nbsp; A wide character literal, type is wchar_t, this type can on so
 
 L"a" &nbsp;&nbsp; An a stored as a string in the form of a wide character literal.  
 
-**10, 10u, 10L, 10ul, 012, 0xC**
+**10, 10u, 10L, 10ul, 012, 0xC**  
 The five first of the above literals represents the decimal number 10 but in different forms. The last literal is 12 in decimal.
 
 10 &nbsp;&nbsp; Signed int representation.
