@@ -1,4 +1,4 @@
-Below follows three code snippets some are definitions other are declarations.  
+Below follows three code snippets and explanations about if they are definitions or only declarations.  
 
 ```cpp
 extern int ix = 1024;
