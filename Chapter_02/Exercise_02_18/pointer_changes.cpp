@@ -7,7 +7,7 @@ int main ()
 {
     int i1 = 1;
     int i2 = 1;
-    int* p = &i1;
+    int *p = &i1;
     std::cout << "p = " << p << " *p = " << *p << std::endl;
     std::cout << "Let's change p by pointing somewhere else." << std::endl;
     p = &i2;
