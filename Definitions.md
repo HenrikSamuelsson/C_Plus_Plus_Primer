@@ -6,5 +6,5 @@ A
 **arithmetic types** A type that is built into the c++ language itself. Some common examples are bool, char, int, and double.   
 **assignment** Set or re-set the value stored in the storage location denoted by a variable name.  
 U
-_
+-
 **unsigned** Unsigned is a keyword that is used as type specifier for integer types. Indicates that the type only holds values greater than or equal to zero.  
