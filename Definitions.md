@@ -8,3 +8,6 @@ A
 U
 -
 **unsigned** A keyword that is used as type specifier for integer types. Indicates that the type only holds values greater than or equal to zero.  
+W
+-
+**word** Term for the natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits like for example 64-bits computer.  
