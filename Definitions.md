@@ -8,6 +8,9 @@ A
 B
 -
 **bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
+G
+-
+**global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.
 U
 -
 **unsigned** A keyword that is used as type specifier for integer types. Indicates that the type only holds values greater than or equal to zero.  
