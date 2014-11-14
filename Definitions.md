@@ -13,7 +13,8 @@ C
 **cerr** Standard output stream for errors. Will often have the same destination as cout.
 G
 -
-**global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.
+**global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
+M
 -
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.
 U
