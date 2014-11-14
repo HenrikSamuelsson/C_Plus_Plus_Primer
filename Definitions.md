@@ -11,7 +11,7 @@ B
 C
 -
 **cerr** Standard output stream for errors. Will often have the same destination as cout.  
-**clog** Standard output stream for logging. Can for example report events in the program execution to a log file. 
+**clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 **curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
 G
 -
