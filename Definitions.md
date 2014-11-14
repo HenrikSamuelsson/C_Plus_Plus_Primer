@@ -10,8 +10,8 @@ B
 **bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
 C
 -
-**cerr** Standard output stream for errors. Will often have the same destination as cout.
-**clog** Standard output stream for logging. Can for example report events in the program execution to a log file.
+**cerr** Standard output stream for errors. Will often have the same destination as cout.  
+**clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 G
 -
 **global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
