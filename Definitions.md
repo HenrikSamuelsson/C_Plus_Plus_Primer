@@ -7,7 +7,7 @@ A
 **assignment** Set or re-set the value stored in the storage location denoted by a variable name.  
 B
 -
-**bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
+**bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  **block** Statements gated by curly braces.   
 C
 -
 **cerr** Standard output stream for errors. Will often have the same destination as cout.  
