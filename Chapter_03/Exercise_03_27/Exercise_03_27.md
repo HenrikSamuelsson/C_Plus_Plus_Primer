@@ -12,5 +12,5 @@ char sd[11] = "fundamental";  // (d)
 ```
 (a) is illegal beacuse buf_size is not contstant.  
 (b) is legal.  
-(c) is illegal because txt_size is not constexpr.
+(c) is illegal because txt_size is not constexpr.  
 (d) is illegal because there is no room for the null teriminator that will be added automatically.  
