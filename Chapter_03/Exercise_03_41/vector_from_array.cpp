@@ -4,7 +4,6 @@
  * \author
  *      Henrik Samuelsson
  */
-#include <cstdlib>
 #include <vector>
 #include <iostream>
 
