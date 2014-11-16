@@ -7,10 +7,20 @@ A
 **assignment** Set or re-set the value stored in the storage location denoted by a variable name.  
 B
 -
-**bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
+**bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  **block** Statements gated by curly braces.  
+**buffer** Region used to store data temporarily. Note that streams are often buffered and this may lead to unexpected behavour in some situtations.  
+**built-in type** Type defined by the language itself, common examples are bool, char, int, double.  
+C
+-
+**cerr** Standard output stream for errors. Will often have the same destination as cout.  
+**clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
+**curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
 G
 -
-**global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.
+**global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
+M
+-
+**manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.
 U
 -
 **unsigned** A keyword that is used as type specifier for integer types. Indicates that the type only holds values greater than or equal to zero.  
