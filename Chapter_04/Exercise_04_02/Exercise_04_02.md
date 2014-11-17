@@ -6,5 +6,5 @@ Parenthesize the following expressions to indicate the order in which the operan
 The expressions will be evaluated like this:
 ```cpp
 * ( ( vec.begin ) () )            // (a)
-( * ( ( vec.begin ) () ) + 1 )    // (b)
+( * ( ( vec.begin ) () ) ) + 1    // (b)
 ```
