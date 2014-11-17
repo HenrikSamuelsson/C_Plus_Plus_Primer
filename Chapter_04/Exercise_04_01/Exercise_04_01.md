@@ -2,7 +2,7 @@ What is the value returned by the following exprisson?
 ```
 5 + 10 * 20 / 2
 ```
-This shall be interpreted as  
+This shall be interpreted as the following expression. 
 ```
 5 + ((10 * 20) / 2)
 ```
