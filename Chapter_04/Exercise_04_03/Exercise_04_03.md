@@ -6,4 +6,4 @@ It is in this example not known in which order these functions are called. There
 
 This gives the compiler some opportunities for optimaziation. This means that the programmer must be aware of what may happen but the code will possibly run a little faster in the end.  
 
-One of main principles of C++ is that it is designed to be a language for writing effecient and fast programs. So this quirsk is a reasonable trade-off.
+One of main principles of C++ is that it is designed to be a language for writing effecient and fast programs. So this quirk is a reasonable trade-off.
