@@ -10,7 +10,7 @@ using std::cout;
 
 /**
  * /brief
- *    Initializes a vector based on data in an array.  
+ *    Does an arithmetic calculation and prints the result.  
  */
 int main() {
     cout << 12 / 3 * 4 + 5 * 15 + 24 % 4 / 2;  
