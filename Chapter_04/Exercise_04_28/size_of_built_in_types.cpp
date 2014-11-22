@@ -11,7 +11,7 @@ using std::endl;
 
 /**
  * /brief
- *    Discovers and prints the size of the built in types.  
+ *    Discovers and prints the size of built in types.  
  */
 int main() {
     cout << "TYPE"        << "\t\t" << "SIZE" << endl;
