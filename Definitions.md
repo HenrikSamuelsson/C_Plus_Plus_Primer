@@ -15,6 +15,9 @@ C
 **cerr** Standard output stream for errors. Will often have the same destination as cout.  
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 **curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
+D  
+-  
+**decltype** A keyword used to query the type of an expression. Comes in handy in generic programming where it can be difficult to deduct the type of an expression.  
 G
 -
 **global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
