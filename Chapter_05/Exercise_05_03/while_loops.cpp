@@ -14,8 +14,8 @@ using std::endl;
  *      Adds the numbers from 1 to 10 by the use of two different variants of 
  *      while loops.
  * /details
- *      The first while loop is probably how this type code is usually is
- *      implemented and will probably be better for other people that might
+ *      The first while loop is probably how this type code usually is
+ *      implemented, and will probably be better for other people that might
  *      work with the code in the future. It is however nice for readability to
  *      have the addend comparison and increment in one single place, like in 
  *      the second loop. 
@@ -39,4 +39,3 @@ int main() {
     
     return 0;
 }
-
