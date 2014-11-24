@@ -1,1 +1,1 @@
-A block is some code placed between a pair of curly braces. Note that a block is not terminated by a semicolon. A block can be left completly empty by just writing a pair of curly braces, it is in this case equivalent to a null statement.
+A block is some code placed between a pair of curly braces. Note that a block is not terminated by a semicolon. A block can be left completly empty, by just writing a pair of curly braces, it is in this case equivalent to a null statement.
