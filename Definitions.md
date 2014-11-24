@@ -19,6 +19,10 @@ C
 D  
 -  
 **decltype** A keyword used to query the type of an expression. Comes in handy in generic programming where it can be difficult to deduct the type of an expression.  
+E  
+-  
+**end-of-file** Special marker indicating that there is no more data left to read in a file, exact representation depends on choice of underlying system.  
+**EOF** Abbreviaton for end-of-file.  
 G
 -
 **global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
