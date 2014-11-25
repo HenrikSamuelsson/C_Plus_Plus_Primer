@@ -17,7 +17,7 @@ int fact(int i);
  */
 int main() {
     for (int test_value = 0; test_value <= 10; test_value++)
-        cout << test_value <<"! = " << fact(test_value) << endl;
+        cout << test_value << "! = " << fact(test_value) << endl;
     return 0;
 }
 
