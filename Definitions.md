@@ -23,6 +23,9 @@ E
 -  
 **end-of-file** Special marker indicating that there is no more data left to read in a file, exact representation depends on choice of underlying system.  
 **EOF** Abbreviaton for end-of-file.  
+F  
+-  
+**for statement** Provides a mechanismn that allows certain parts of the code to be executed repeatedly.  
 G
 -
 **global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
