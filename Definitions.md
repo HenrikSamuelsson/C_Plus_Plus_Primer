@@ -23,6 +23,9 @@ E
 -  
 **end-of-file** Special marker indicating that there is no more data left to read in a file, exact representation depends on choice of underlying system.  
 **EOF** Abbreviaton for end-of-file.  
+F  
+-  
+**for statement** Provides a mechanismn that allows code to be executed repeatedly.  
 G
 -
 **global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
@@ -34,4 +37,4 @@ U
 **unsigned** A keyword that is used as type specifier for integer types. Indicates that the type only holds values greater than or equal to zero.  
 W
 -
-**word** Term for the natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.  
+**word** The natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.  
