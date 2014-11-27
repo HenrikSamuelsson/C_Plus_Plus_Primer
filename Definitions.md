@@ -29,6 +29,9 @@ F
 G
 -
 **global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
+H  
+-  
+**header** Section at the top of file with include directives. A convinient way to make it possible to use definitons from other files.  
 M
 -
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.
