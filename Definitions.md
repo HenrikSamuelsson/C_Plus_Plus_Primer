@@ -25,10 +25,16 @@ E
 **EOF** Abbreviaton for end-of-file.  
 F  
 -  
-**for statement** Provides a mechanismn that allows code to be executed repeatedly.  
+**for statement** Provides a mechanism that allows code to be executed repeatedly.  
 G
 -
 **global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
+H  
+-  
+**header** Section at the top of file with include directives. A convinient way to make it possible to use definitons from other files.  
+I  
+-  
+**if statement** mechanism that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
 M
 -
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.
