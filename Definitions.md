@@ -32,6 +32,9 @@ G
 H  
 -  
 **header** Section at the top of file with include directives. A convinient way to make it possible to use definitons from other files.  
+I  
+-  
+**if statement** Mechanismn that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
 M
 -
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.
