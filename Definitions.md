@@ -35,6 +35,9 @@ H
 I  
 -  
 **if statement** mechanism that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
+L  
+-  
+**library type** Type defined by the C++ Standard Library.  
 M
 -
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.
