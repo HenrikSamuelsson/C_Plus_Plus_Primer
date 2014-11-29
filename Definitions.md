@@ -21,6 +21,7 @@ D
 **decltype** A keyword used to query the type of an expression. Comes in handy in generic programming where it can be difficult to deduct the type of an expression.  
 E  
 -  
+**ellipsis** Special notation formed by writing three dots (...). Used to indicate that a function takes an unspecified number of parameters.  
 **end-of-file** Special marker indicating that there is no more data left to read in a file, exact representation depends on choice of underlying system.  
 **EOF** Abbreviaton for end-of-file.  
 F  
