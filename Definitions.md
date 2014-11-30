@@ -44,6 +44,7 @@ M
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.  
 T  
 -  
+**template** Feature that supports generic types in functions and classes. Allows a function or class to work on many different data types without being rewritten for each one.  
 **trailing return type** Function declaration syntax that ends with an arrow (->) and then finally the return type. Added to the language to support some special template cases but can also be used for more mundane function declarations.   
 U
 -
