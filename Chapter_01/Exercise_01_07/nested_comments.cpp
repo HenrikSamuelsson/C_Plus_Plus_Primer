@@ -13,7 +13,7 @@ int main() {
     /*
      * Start of first block comment.
      * 
-    /* A nested block comment (not allowed).*/
+    /* A nested block comment (not allowed). */
      *
      * End of first block comment.
      */
