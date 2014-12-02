@@ -44,6 +44,9 @@ L
 M
 -
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.  
+N  
+-  
+**null pointer** A pointer that currently do not point at anything.  
 T  
 -  
 **template** Feature that supports generic types in functions and classes. Allows a function or class to work on many different data types without being rewritten for each one.  
