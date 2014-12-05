@@ -13,6 +13,7 @@ B
 **built-in type** Type defined by the language itself, common examples are bool, char, int, double.  
 C
 -
+**capture list** Part of a lambda expression that specifies if and how one or more variables can be used by the lambda.  
 **cerr** Standard output stream for errors. Will often have the same destination as cout.  
 **character string literal** Term sometimes used as synonym for string literal.  
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
