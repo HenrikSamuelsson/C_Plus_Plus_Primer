@@ -42,6 +42,7 @@ I
 **if statement** mechanism that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
 L  
 -  
+**lambda expression** A lambda is a programming technique that is related to anonymous functions. A lambda implicitly defines a function object class and constructs a function object of that class type.  
 **library type** Type defined by the C++ Standard Library.  
 M
 -
