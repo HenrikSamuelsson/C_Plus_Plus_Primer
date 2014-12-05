@@ -52,7 +52,7 @@ N
 **null pointer** A pointer that currently do not point at anything.  
 O  
 -  
-**ostream** A type in the std library that can be used to write sequences of characters or representations of other kinds of data.  
+**ostream** A type in the std library that can be used to write characters sequences or representations of other kinds of data.  
 T  
 -  
 **template** Feature that supports generic types in functions and classes. Allows a function or class to work on many different data types without being rewritten for each one.  
