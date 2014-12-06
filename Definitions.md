@@ -33,6 +33,7 @@ F
 **for statement** Provides a mechanism that allows code to be executed repeatedly.  
 G
 -
+**generic algorithms** Type-indepent, finite step by step procedure.  
 **global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
 H  
 -  
