@@ -30,7 +30,7 @@ E
 **EOF** Abbreviaton for end-of-file.  
 F  
 -  
-**for statement** Provides a mechanism that allows code to be executed repeatedly. 
+**for statement** Provides a mechanism that allows code to be executed repeatedly.  
 **functor** A class that acts like a function by overloading the function call operator.  
 G
 -
