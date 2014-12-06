@@ -18,7 +18,7 @@ const int ANSWER_TO_THE_ULTIMATE_QUESTION = 42;
 
 /**
  * @brief
- *      Counts number of occurrences of given int in a vector of int's.
+ *      Counts number of occurrences of a given int in a vector of int's.
  */
 int main() {
     // Generate 200 pseudo random numbers and store them in a vector.
