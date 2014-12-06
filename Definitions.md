@@ -31,7 +31,7 @@ E
 F  
 -  
 **for statement** Provides a mechanism that allows code to be executed repeatedly.  
-**functor** A class that acts like a function by overloading the function call operator.  
+**functor** Class that acts like a function by overloading the function call operator.  
 G
 -
 **generic algorithms** Type-indepent, finite step by step procedure.  
