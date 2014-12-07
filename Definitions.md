@@ -66,6 +66,6 @@ U
 W
 -
 **word** The natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.
-Symbols
--------
+Sym
+---
 **() operator** Call operator. Executes a function.  
