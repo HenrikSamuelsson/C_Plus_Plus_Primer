@@ -41,7 +41,8 @@ H
 **header** Section at the top of file with include directives. A convinient way to make it possible to use definitons from other files.  
 I  
 -  
-**if statement** mechanism that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
+**if statement** Mechanism that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
+**inline function** A function qualified with the keyword inline. Suggests to the compiler that it should substitute the body of the function inline. This saves on the overhead caused by function calls but requires more memory to store the code.  
 L  
 -  
 **lambda expression** A lambda is a programming technique that is related to anonymous functions. A lambda implicitly defines a function object class and constructs a function object of that class type.  
