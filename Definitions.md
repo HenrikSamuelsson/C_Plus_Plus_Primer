@@ -56,6 +56,9 @@ N
 O  
 -  
 **ostream** A type in the std library that can be used to write characters sequences or representations of other kinds of data.  
+S  
+-  
+**separate compilation** Support for separation of the source files into different modules that can be compiled one by one and then pieced together into an executable program. This feature simplifies the development phase.   
 T  
 -  
 **template** Feature that supports generic types in functions and classes. Allows a function or class to work on many different data types without being rewritten for each one.  
