@@ -58,7 +58,7 @@ O
 **ostream** A type in the std library that can be used to write characters sequences or representations of other kinds of data.  
 P  
 -  
-**parameter** A variable whitin a function declaration. Indcates what type and how many variables the function takes as arguments when called.  
+**parameter** A variable whitin a function declaration. Indicates what type and how many variables the function takes as arguments when called.  
 S  
 -  
 **separate compilation** Support for separation of the source files into different modules that can be compiled one by one and then pieced together into an executable program. This feature simplifies the development phase.   
