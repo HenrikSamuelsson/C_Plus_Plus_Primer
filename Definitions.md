@@ -57,6 +57,7 @@ N
 **null pointer** A pointer that currently do not point at anything.  
 O  
 -  
+**object** This term has different meanings depending on the context. Will often refer to an instance of a class but can also be used more losely when refering to a variable or just a value of some type in a contingious region of the memory.  
 **ostream** A type in the std library that can be used to write characters sequences or representations of other kinds of data.  
 P  
 -  
