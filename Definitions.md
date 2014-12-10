@@ -26,7 +26,8 @@ E
 - 
 **edit-compile-debug** Summary descripton on the steps used in the software implementation process.  
 **ellipsis** Special notation formed by writing three dots (...). Used to indicate that a function takes an unspecified number of parameters.  
-**end-of-file** Special marker indicating that there is no more data left to read in a file, exact representation depends on choice of underlying system.  
+**encapsulation** An object oriented programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse.  
+**end-of-file** Special marker indicating that there is no more data left to read in a file, exact representation depends on choice of underlying system.
 **EOF** Abbreviaton for end-of-file.  
 F  
 -  
