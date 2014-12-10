@@ -2,6 +2,7 @@ Definitions
 ===========
 A
 -  
+**address** Refers to a memory location.  
 **alias declaration** Setups another name for a type by the aid of the using keyword.  
 **argument** Value passed to a function in the code. Can also be a value passed from the command line to the main function.  
 **arithmetic types** A type that is built into the c++ language itself. Some common examples are bool, char, int, and double.   
