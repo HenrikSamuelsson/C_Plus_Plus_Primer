@@ -2,6 +2,7 @@ Definitions
 ===========
 A
 -  
+**abstract data type** Model for a certain class of data structures that have similar behavior. An abstract data type is defined only by the operations that may be performed on it.  
 **address** Refers to a memory location.  
 **alias declaration** Setups another name for a type by the aid of the using keyword.  
 **argument** Value passed to a function in the code. Can also be a value passed from the command line to the main function.  
