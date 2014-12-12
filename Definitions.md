@@ -47,6 +47,7 @@ I
 -  
 **if statement** Mechanism that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
 **in-class initializer** Initalization of a class data member when it is declared.  
+**incomplete type** Type that at a given time have been declared but lacks a definiton.   
 **inline function** A function qualified with the keyword inline. Suggests to the compiler that it should substitute the function call with the body of the function inline. This saves on the overhead caused by function calls but requires more memory to store the code.  
 L  
 -  
