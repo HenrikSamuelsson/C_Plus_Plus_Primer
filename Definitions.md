@@ -34,6 +34,7 @@ E
 F  
 -  
 **for statement** Provides a mechanism that allows code to be executed repeatedly.  
+**forward declaration** Declartion of an identifier that have not yet been given a complete definition.
 **functor** Class that acts like a function by overloading the function call operator.  
 G
 -
