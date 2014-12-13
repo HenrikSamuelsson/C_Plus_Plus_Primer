@@ -69,7 +69,8 @@ P
 **pointer** An object that holds an address or 0.  
 S  
 -  
-**separate compilation** Support for separation of the source files into different modules that can be compiled one by one and then pieced together into an executable program. This feature simplifies the development phase.   
+**separate compilation** Support for separation of the source files into different modules that can be compiled one by one and then pieced together into an executable program. This feature simplifies the development phase.  
+**scope operator**  The scope operator helps to identify and specify the context to which an identifier refers. In C++ the scope operator is written "::".  
 T  
 -  
 **template** Feature that supports generic types in functions and classes. Allows a function or class to work on many different data types without being rewritten for each one.  
