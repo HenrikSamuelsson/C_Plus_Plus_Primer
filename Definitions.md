@@ -19,6 +19,7 @@ C
 **capture list** Part of a lambda expression that specifies if and how one or more variables can be used by the lambda.  
 **cerr** Standard output stream for errors. Will often have the same destination as cout.  
 **character string literal** Term sometimes used as synonym for string literal.  
+**class** Fundamental feature used for creation of user defined types.  
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 **constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
 **curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
