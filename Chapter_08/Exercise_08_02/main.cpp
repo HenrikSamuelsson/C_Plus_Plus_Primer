@@ -38,7 +38,7 @@ istream& read(istream& input_stream)
 }
 
 /**
- * Entry paint of program.
+ * Entry point of program.
  * 
  * @return 0 if execution was successful 
  */
