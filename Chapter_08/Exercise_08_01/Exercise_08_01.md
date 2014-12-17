@@ -3,7 +3,7 @@
  * Reads from an istream until end-of-file is found and prints what is read.
  * 
  * @param input_stream stream to read from
- * @return the stream that was read
+ * @return the stream that was read from
  */
 istream& read(istream& input_stream)
 {
