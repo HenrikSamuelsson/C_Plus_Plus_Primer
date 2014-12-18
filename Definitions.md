@@ -26,6 +26,7 @@ C
 **comment** Code that is ignored by the compiler. Written for the developers to document and clarify the code.  
 **condition** Expression that will be evaluted during program execution to either true or false.  
 **constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
+**cout** Object of class type ostream, used for writing data to an output.  
 **curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
 D  
 -  
