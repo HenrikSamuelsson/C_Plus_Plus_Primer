@@ -23,6 +23,7 @@ C
 **class** Fundamental feature used for creation of user defined types.  
 **class type** Defined using class specifiers. The definiton starts with the class, struct or union keyword, other parts are the class name and class member declarations.  
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
+**comment** Code that is ignored by the compiler. There are two types of comments in C++, single line where the beginning is indicated by //, and multiline that begin with /* and end with */. 
 **constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
 **curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
 D  
