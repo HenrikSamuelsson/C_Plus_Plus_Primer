@@ -39,6 +39,7 @@ E
 **encapsulation** An object oriented programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse.  
 **end-of-file** Special marker indicating that there is no more data left to read in a file, the exact representation is system defined.  
 **EOF** Abbreviaton for end-of-file.  
+**expression** A combination of one ore more operands and usually one ore more operators. The evaluation results in a value.  
 F  
 -  
 **for statement** Provides a mechanism that allows code to be executed repeatedly.  
