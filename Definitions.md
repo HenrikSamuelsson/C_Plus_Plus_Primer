@@ -44,6 +44,9 @@ F
 -  
 **for statement** Provides a mechanism that allows code to be executed repeatedly.  
 **forward declaration** Declartion of an identifier that have not yet been given a complete definition.  
+**function** Named sequence of statements that can be invoked with given arguments and might return a value.  
+**function body** Block of code that defines a given function.  
+**function name** Name that is used to identify and call a given function.  
 **functor** Class that acts like a function by overloading the function call operator.  
 G
 -
