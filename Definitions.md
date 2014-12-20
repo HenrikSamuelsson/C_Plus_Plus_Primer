@@ -69,7 +69,8 @@ L
 **lambda expression** A lambda is a programming technique that is related to anonymous functions. A lambda implicitly defines a function object class and constructs a function object of that class type.  
 **library type** Type defined by the C++ Standard Library.  
 M
--
+-  
+**main** Function called by the system when starting to execute a C++ program.  
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.  
 N  
 -  
