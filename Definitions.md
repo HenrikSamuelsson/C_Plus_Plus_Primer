@@ -76,6 +76,7 @@ M
 **method** Synonym for (virtual) member function.  
 N  
 -  
+**namespace** Defines a named scope. Makes it possible to differentiate classes, variables, functions etc from different libraries that could happen to have the same name.  
 **null pointer** A pointer that currently do not point at anything.  
 O  
 -  
