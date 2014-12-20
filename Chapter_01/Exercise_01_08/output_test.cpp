@@ -12,8 +12,8 @@ int main ()
 {
     std::cout << "*/";  // Ok will print */
     std::cout << "*/";  // Ok will print */
-    // std::cout << /* "*/" */;     // Will not compile the first citation mark 
-                                    // ends inside a comment.
+    std::cout << /* "*/" */;     // Will not compile the first citation mark 
+                                // ends up inside a comment.
     std::cout << /* "*/" /* "/*" */;    // Ok will print  */ 
     return 0;
 }
