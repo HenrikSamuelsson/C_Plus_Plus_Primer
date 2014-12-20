@@ -84,7 +84,8 @@ O
 **ostream** A type in the std library that can be used to write characters sequences or representations of other kinds of data.  
 P  
 -  
-**parameter** A variable whitin a function declaration. Indicates what type and how many variables the function takes as arguments when called.  
+**parameter** A variable whitin a function declaration. Indicates what type of data to be used as an argument when the function is called.  
+**parameter list** Specifies the number of arguments, and corresponding type, to be used when calling a given function.  
 **pointer** An object that holds an address or 0.  
 S  
 -  
