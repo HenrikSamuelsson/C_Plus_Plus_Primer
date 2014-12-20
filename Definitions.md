@@ -62,7 +62,8 @@ I
 **incomplete type** Type that at a given time have been declared but lacks a definiton.   
 **initialization** Giving an object an initial value at the time of creation.  
 **inline function** A function qualified with the keyword inline. Suggests to the compiler that it should substitute the function call with the body of the function inline. This saves on the overhead caused by function calls but requires more memory to store the code.  
-**iostream**  Header that defines the standard input/output stream objects.  
+**iostream** Header that defines the standard input/output stream objects.  
+**istream** Input stream objects that read and interpret input from sequences of characters.  
 L  
 -  
 **lambda expression** A lambda is a programming technique that is related to anonymous functions. A lambda implicitly defines a function object class and constructs a function object of that class type.  
