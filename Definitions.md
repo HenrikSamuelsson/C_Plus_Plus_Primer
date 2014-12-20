@@ -73,6 +73,7 @@ M
 **main** Function called by the system when starting to execute a C++ program.  
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.  
 **member function** Function declared in the scope of a class. Usually called to operate on a specific object.  
+**method** Synonym for (virtual) member function.  
 N  
 -  
 **null pointer** A pointer that currently do not point at anything.  
