@@ -1,6 +1,6 @@
 Some examples of programming errors and the corresponding error messages produced by the compiler.  
 
-###Example 1  
+####Example 1  
 Missing parameter list for the main function:
 ```cpp
 int main {
@@ -15,7 +15,7 @@ error: expected '}' before 'return'
 error: expected ',' or ';' before 'return'  
 error: expected declaration before '}' token  
 ```
-###Example 2  
+####Example 2  
 Colon instead of semicolon at the end of a statement:  
 ```cpp
 int main() {
@@ -27,7 +27,7 @@ Error messages:
 ```
 error: expected ';' before ':' token  
 ```
-###Example 3  
+####Example 3  
 Missing quotes around a string literal:  
 ```cpp
 int main() {
