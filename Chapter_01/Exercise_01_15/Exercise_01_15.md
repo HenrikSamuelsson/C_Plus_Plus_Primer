@@ -51,3 +51,16 @@ Error messages:
 ```
 error: expected ';' before '}' token
 ```
+####Example 5
+Type error:
+```cpp
+int main() {
+    int i;
+    i = "hello";
+    return 0;
+}
+```
+Error messages:  
+```
+error: invalid conversion from 'const char*' to 'int' [-fpermissive]
+```
