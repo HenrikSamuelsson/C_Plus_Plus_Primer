@@ -87,6 +87,9 @@ P
 **parameter** A variable whitin a function declaration. Indicates what type of data to be used as an argument when the function is called.  
 **parameter list** Specifies the number of arguments, and corresponding type, to be used when calling a given function.  
 **pointer** An object that holds an address or 0.  
+R  
+-  
+**return type** The type of the value returned by a function, specified in the definition of the function.   
 S  
 -  
 **separate compilation** Support for separation of the source files into different modules that can be compiled one by one and then pieced together into an executable program. This feature simplifies the development phase.  
