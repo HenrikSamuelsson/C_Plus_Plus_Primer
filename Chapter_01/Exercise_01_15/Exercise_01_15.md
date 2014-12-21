@@ -25,3 +25,15 @@ Error messages:
 ```
 error: expected ';' before ':' token  
 ```
+Missing quotes around a string literal:  
+```cpp
+int main() {
+    std::cout << Read each file. << std::endl;
+    return 0;
+}
+```
+Error messages:  
+```
+error: 'Read' was not declared in this scope
+error: expected ';' before 'each'
+```
