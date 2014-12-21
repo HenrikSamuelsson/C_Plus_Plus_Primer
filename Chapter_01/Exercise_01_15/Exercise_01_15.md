@@ -14,3 +14,14 @@ error: expected '}' before 'return'
 error: expected ',' or ';' before 'return'  
 error: expected declaration before '}' token  
 ```
+Colon instead of semicolon at the end of a statement:  
+```cpp
+int main() {
+    std::cout << "Read each file." << std::endl:
+    return 0;
+}
+```
+Error messages:
+```
+error: expected ';' before ':' token  
+```
