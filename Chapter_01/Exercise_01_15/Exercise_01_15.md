@@ -40,3 +40,14 @@ Error messages:
 error: 'Read' was not declared in this scope
 error: expected ';' before 'each'
 ```
+####Example 4
+Missing semicolon on return statement:
+```cpp
+int main() {
+    return 0
+}
+```
+Error messages:  
+```
+error: expected ';' before '}' token
+```
