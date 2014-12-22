@@ -7,6 +7,7 @@
 I occurs E times
 ```
 where I is the input value and E is the number of these values entered.  
+
 (b) One line will be output for each value entered, saying that the value was occured 1 times.
 ```
 X occurs 1 times
