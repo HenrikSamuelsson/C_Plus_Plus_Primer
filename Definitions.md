@@ -101,6 +101,7 @@ S
 **standard output stream** Default destination of output for applications. In most systems directed by default to a text console.  
 **statement** The basic unit controlling the execution flow of a program. A simple type of statment is an expression followed by a semicolon. Other types of statments are the if-statement, while-statement, do-statement, switch-statement, and the block.  
 **std** Name of the namespace used by the standard library.  
+**string literal** A number of characters placed between double quotes.  
 T  
 -  
 **template** Feature that supports generic types in functions and classes. Allows a function or class to work on many different data types without being rewritten for each one.  
