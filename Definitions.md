@@ -98,6 +98,7 @@ S
 **standard error stream** Output used for error reporting. The destination is often shared with cout.  
 **standard input stream** The default source of data for applications. In most systems directed by default to the keyboard.  
 **standard library** Collection of classes and functions that every compiler must support. Examples of content are several generic containers, functions to utilize and manipulate these containers, generic strings and streams, and everyday functions for tasks such as finding the square root of a number.  
+**standard output stream** Default destination of output for applications. In most systems directed by default to a text console.   
 T  
 -  
 **template** Feature that supports generic types in functions and classes. Allows a function or class to work on many different data types without being rewritten for each one.  
