@@ -92,17 +92,30 @@ R
 **return type** The type of the value returned by a function, specified in the definition of the function.   
 S  
 -  
-**separate compilation** Support for separation of the source files into different modules that can be compiled one by one and then pieced together into an executable program. This feature simplifies the development phase.  
 **scope operator**  The scope operator helps to identify and specify the context to which an identifier refers. In C++ the scope operator is written "::".  
+**separate compilation** Support for separation of the source files into different modules that can be compiled one by one and then pieced together into an executable program. This feature simplifies the development phase.  
+**source file** File that contains human readable code for a C++ program.  
+**standard error stream** Output used for error reporting. The destination is often shared with cout.  
+**standard input stream** The default source of data for applications. In most systems directed by default to the keyboard.  
+**standard library** Collection of classes and functions that every compiler must support. Examples of content are several generic containers, functions to utilize and manipulate these containers, generic strings and streams, and everyday functions for tasks such as finding the square root of a number.  
+**standard output stream** Default destination of output for applications. In most systems directed by default to a text console.  
+**statement** The basic unit controlling the execution flow of a program. A simple type of statment is an expression followed by a semicolon. Other types of statments are the if-statement, while-statement, do-statement, switch-statement, and the block.  
+**std** Name of the namespace used by the standard library.  
+**string literal** A number of characters placed between double quotes.  
 T  
 -  
 **template** Feature that supports generic types in functions and classes. Allows a function or class to work on many different data types without being rewritten for each one.  
 **trailing return type** Function declaration syntax that ends with an arrow (->) and then finally the return type. Added to the language to support some special template cases but can also be used for more mundane function declarations.   
 U
--
+-  
+**uninitialized variable** Variable that is not given an initial value. Can for example be a variable of one of the built-in types defined inside a function, the values of these variables is undefined, this can cause nasty bugs.  
 **unsigned** A keyword that is used as type specifier for integer types. Indicates that the type only holds values greater than or equal to zero.  
+V  
+-  
+**variable** Named object in a scope.  
 W
--
+-  
+**while statment** Provides a mechanism that allows code to be executed repeatedly.  
 **word** The natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.
 Sym
 ---
