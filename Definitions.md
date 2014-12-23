@@ -15,7 +15,8 @@ B
 **buffer** Region used to store data temporarily. Note that streams are often buffered and this may lead to unexpected behavour in some situtations.  
 **built-in type** Type defined by the language itself, common examples are bool, char, int, double.  
 C
--
+-  
+**call operator** Written as "()". Executes a function.  
 **capture list** Part of a lambda expression that specifies if and how one or more variables can be used by the lambda.  
 **cerr** Standard output stream for errors. Will often have the same destination as cout.  
 **character string literal** Term sometimes used as synonym for string literal.  
@@ -59,7 +60,8 @@ I
 -  
 **if statement** Mechanism that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
 **in-class initializer** Initalization of a class data member when it is declared.  
-**incomplete type** Type that at a given time have been declared but lacks a definiton.   
+**incomplete type** Type that at a given time have been declared but lacks a definiton.  
+**increment operator** Written as "++". Adds 1 to the operand.  
 **initialization** Giving an object an initial value at the time of creation.  
 **inline function** A function qualified with the keyword inline. Suggests to the compiler that it should substitute the function call with the body of the function inline. This saves on the overhead caused by function calls but requires more memory to store the code.  
 **iostream** Header that defines the standard input/output stream objects.  
@@ -117,6 +119,3 @@ W
 -  
 **while statment** Provides a mechanism that allows code to be executed repeatedly.  
 **word** The natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.
-Sym
----
-**() operator** Call operator. Executes a function.  
