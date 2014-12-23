@@ -114,7 +114,8 @@ V
 -  
 **variable** Named object in a scope.  
 W
--
+-  
+**while statment** Provides a mechanism that allows code to be executed repeatedly.  
 **word** The natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.
 Sym
 ---
