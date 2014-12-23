@@ -110,6 +110,9 @@ U
 -  
 **uninitialized variable** Variable that is not given an initial value. Can for example be a variable of one of the built-in types defined inside a function, the values of these variables is undefined, this can cause nasty bugs.  
 **unsigned** A keyword that is used as type specifier for integer types. Indicates that the type only holds values greater than or equal to zero.  
+V  
+-  
+**variable** Named object in a scope.  
 W
 -
 **word** The natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.
