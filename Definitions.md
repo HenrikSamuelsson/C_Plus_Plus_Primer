@@ -15,7 +15,8 @@ B
 **buffer** Region used to store data temporarily. Note that streams are often buffered and this may lead to unexpected behavour in some situtations.  
 **built-in type** Type defined by the language itself, common examples are bool, char, int, double.  
 C
--
+-  
+**call operator** Written as "()". Executes a function.  
 **capture list** Part of a lambda expression that specifies if and how one or more variables can be used by the lambda.  
 **cerr** Standard output stream for errors. Will often have the same destination as cout.  
 **character string literal** Term sometimes used as synonym for string literal.  
@@ -117,6 +118,3 @@ W
 -  
 **while statment** Provides a mechanism that allows code to be executed repeatedly.  
 **word** The natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.
-Sym
----
-**() operator** Call operator. Executes a function.  
