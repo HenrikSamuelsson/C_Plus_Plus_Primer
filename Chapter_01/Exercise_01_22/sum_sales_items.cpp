@@ -2,7 +2,7 @@
  * @file
  *      sum_sales_items.cpp
  * @author
- *      Henrik Samuelsson, henrik.samuelsson@gmail.com
+ *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  */
 #include <iostream>
 #include "Sales_item.h"
