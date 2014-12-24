@@ -25,6 +25,7 @@ C
 **class type** Defined using class specifiers. The definiton starts with the class, struct or union keyword, other parts are the class name and class member declarations.  
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 **comment** Code that is ignored by the compiler. Written for the developers by the developers to document and clarify the code.  
+**compound assignment operator** Written as "+=". Will add the right hand-operator to the left-hand operator and store the result in the left-hand operator.  
 **condition** Expression that will be evaluted during program execution to either true or false.  
 **constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
 **cout** Object of class type ostream, used for writing data to an output.  
