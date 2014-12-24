@@ -1,5 +1,5 @@
 ####Question  
-Test the program written in en Exercise 1.23 by giving multiple transactions representing multiple ISBN's. The records for each ISBN should be grouped together.  
+Test the program written in Exercise 1.23 by giving multiple transactions representing multiple ISBN's. The records for each ISBN should be grouped together.  
 ####Answer
 A test run of the program can for example look like this.  
 ```
@@ -13,4 +13,4 @@ Book with isbn 1 occurred in 3 transactions.
 Book with isbn 2 occurred in 2 transactions.
 ```
 The program kind of works but not really pretty since the output from the program will often be mixed in with the input of the user in a confusing way.  
-(The ^Z shows when CTRL+D is entered by the user to indicate end-of-file.)  
+(The ^Z shows up in the console when CTRL+D is entered by the user to indicate end-of-file.)  
