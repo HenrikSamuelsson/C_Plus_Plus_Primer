@@ -9,7 +9,7 @@
 
 /**
  * @brief
- *      Reads two sales_item's objects prints the sum.
+ *      Reads two sales_item's objects and prints the sum.
  * @note
  *      The exercise instructions in the book state that the two objects have
  *      the same ISBN. It is assumed that it is up to the user to enter objects
