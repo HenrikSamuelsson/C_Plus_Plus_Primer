@@ -34,6 +34,7 @@ D
 -  
 **data structure** Data elements grouped together under one name.  
 **decltype** A keyword used to query the type of an expression. Comes in handy in generic programming where it can be difficult to deduct the type of an expression.  
+**dot operator** Written as ".". Used to reference individual members of classes, structures, and unions. The dot operator is applied to the actual object.  
 E  
 - 
 **edit-compile-debug** Summary descripton of the steps used in the software implementation process.  
