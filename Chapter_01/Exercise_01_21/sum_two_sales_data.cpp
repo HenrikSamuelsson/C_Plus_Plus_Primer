@@ -1,4 +1,4 @@
-/*
+/**
  * @file 
  *      sum_two_sales_data.cpp
  * @author
