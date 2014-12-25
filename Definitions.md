@@ -43,7 +43,7 @@ E
 **ellipsis** Special notation formed by writing three dots (...). Used to indicate that a function takes an unspecified number of parameters.  
 **encapsulation** An object oriented programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse.  
 **end-of-file** Special marker indicating that there is no more data left to read in a file, the exact representation is system defined.  
-**EOF** Abbreviaton for end-of-file. 
+**EOF** Abbreviaton for end-of-file.  
 **equality operator** Written as "==". Takes two operands, evaluates to true if both operands are equal, and false if this is not the case.  
 **expression** A combination of one ore more operands and usually one ore more operators. The evaluation results in a value.  
 F  
@@ -68,6 +68,7 @@ I
 **include directive** Written as "#include". This provides a mechanism for textual inclusion of one source file into another.  
 **incomplete type** Type that at a given time have been declared but lacks a definiton.  
 **increment operator** Written as "++". Adds 1 to the operand.  
+**inequality operator** Written as "!=". Takes two operands, evaluates to false if both operands are equal, and false if this is not the case.  
 **initialization** Giving an object an initial value at the time of creation.  
 **inline function** A function qualified with the keyword inline. Suggests to the compiler that it should substitute the function call with the body of the function inline. This saves on the overhead caused by function calls but requires more memory to store the code.  
 **input operator** Written as ">>" Reads from an input specified in the left-hand operand and the data is stored in the right-hand operand.  
