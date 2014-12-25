@@ -77,6 +77,8 @@ I
 L  
 -  
 **lambda expression** A lambda is a programming technique that is related to anonymous functions. A lambda implicitly defines a function object class and constructs a function object of that class type.  
+**less-than operator** Written as "<". Takes two operands and returns true if the left-hand operand is less than the right-hand operand.  
+**less-than-or-equal operator** Written as "<=". Takes two operands and returns true if the left-hand operand is less than or equal compared to the right-hand operand.  
 **library type** Type defined by the C++ Standard Library.  
 M
 -  
