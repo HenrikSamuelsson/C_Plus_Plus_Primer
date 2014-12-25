@@ -35,6 +35,7 @@ D
 -  
 **data structure** Data elements grouped together under one name.  
 **decltype** A keyword used to query the type of an expression. Comes in handy in generic programming where it can be difficult to deduct the type of an expression.  
+**decrement operator** Written as "--". Subtracts 1 from the operand.  
 **dot operator** Written as ".". Used to reference individual members of classes, structures, and unions. The dot operator is applied to the actual object.  
 E  
 - 
