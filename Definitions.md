@@ -68,6 +68,7 @@ I
 **increment operator** Written as "++". Adds 1 to the operand.  
 **initialization** Giving an object an initial value at the time of creation.  
 **inline function** A function qualified with the keyword inline. Suggests to the compiler that it should substitute the function call with the body of the function inline. This saves on the overhead caused by function calls but requires more memory to store the code.  
+**input operator** Written as ">>" Reads from an input specified in the left-hand operand and the data is stored in the right-hand operand.  
 **iostream** Header that defines the standard input/output stream objects.  
 **istream** Input stream objects that read and interpret input from sequences of characters.  
 L  
