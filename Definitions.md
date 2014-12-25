@@ -88,6 +88,7 @@ O
 -  
 **object** This term has different meanings depending on the context. Will often refer to an instance of a class but can also be used more losely when refering to a variable or just a value of some type in a contingious region of the memory.  
 **ostream** A type in the std library that can be used to write characters sequences or representations of other kinds of data.  
+**output operator** Written as "<<". Left-hand operand shall be a stream that will be written to. The right-hand operand hold the data that will be written.  
 P  
 -  
 **parameter** A variable whitin a function declaration. Indicates what type of data to be used as an argument when the function is called.  
