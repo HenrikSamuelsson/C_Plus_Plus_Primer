@@ -54,10 +54,12 @@ F
 **function body** Block of code that defines a given function.  
 **function name** Name that is used to identify and call a given function.  
 **functor** Class that acts like a function by overloading the function call operator.  
-G
--
+G  
+-  
 **generic algorithms** Type-indepent, finite step by step procedure.  
-**global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible to the compiler at all times.  
+**global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible at all times.  
+**greater-than operater** Written as ">". Takes two operands and returns true if the left-hand operand is greater than the right-hand operand.  
+**greater-than-or-equal operator** Written as ">=". Takes two operands and returns true if the left-hand operand is greater than or equal compared to the right-hand operand.  
 H  
 -  
 **header** Section at the top of file with include directives. A convinient way to make it possible to use definitons from other files.  
