@@ -7,7 +7,7 @@ What values do the following literals represent and what type does each have?
 3.14L                             // (d)
 ```
 ####Answer  
-(a) \145 and \012 indicates numbers written in octal. The corresponding character codes in the ASCCI table are "e" and "new line". This means that the literal represents the text "Who goes with Ferguson?" plus a new line indication. The type is string.  
+(a) \145 and \012 indicates numbers written in octal. The corresponding character codes in the ASCII table are "e" and "new line". This means that the literal represents the text "Who goes with Ferguson?" plus a new line indication. The type is string.  
 
 (b) Represents 31.4 of type long double.  
 
