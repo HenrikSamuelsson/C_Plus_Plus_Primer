@@ -9,4 +9,4 @@ Only positive numbers can be handled by an unsgined type. Signed types can be us
 ####Question  
 What are the differences between a float and a double?  
 ####Answer  
-Both of these types can be used to store floating points numbers. The difference is that a double is often able to handle larger numbers and also keep track of more significant figures. This is because an double often gets more memory when storing variables, compared to a float. Exact numbers of bits used for the storage of floating point numbers is system dependant.  
+Both of these types can be used to store floating points numbers. The difference is that a double is often able to handle larger numbers and also keep track of more significant figures. This is because an double often gets more memory when storing variables, compared to a float. Exact numbers of bits used for the storage of floating point numbers is system dependant but using 32 bits for float and 64 for double is commom.  
