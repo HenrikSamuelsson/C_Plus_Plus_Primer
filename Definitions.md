@@ -1,6 +1,6 @@
-Definitions
-===========
-A
+Definitions  
+===========  
+A  
 -  
 **abstract data type** Model for a certain class of data structures that have similar behavior. An abstract data type is defined only by the operations that may be performed on it.  
 **address** Refers to a memory location.  
@@ -10,8 +10,9 @@ A
 **arithmetic types** A type that is built into the c++ language itself. Some common examples are bool, char, int, and double.   
 **assignment** Set or re-set the value stored in the storage location denoted by a variable name.  
 **assignment operator** Written as "=". Used for assignment.  
-B
--
+**auto** Keyword indicating that a variables type shall be automatically deduced from its initializer. Primarily useful in generic programming.  
+B  
+-  
 **bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
 **block** Statements gated by curly braces.  
 **buffer** Region used to store data temporarily. Note that streams are often buffered and this may lead to unexpected behavour in some situtations.  
