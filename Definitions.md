@@ -58,7 +58,8 @@ F
 **functor** Class that acts like a function by overloading the function call operator.  
 G  
 -  
-**generic algorithms** Type-indepent, finite step by step procedure.  
+**generic algorithm** Type-indepent, finite step by step procedure.  
+**generic programming** A style of programming in which algorithms are written in terms of types to-be-specified-later that are then instantiated when needed for specific types provided as parameters.  
 **global scope** The outermost scope, used to define global variables or other global constructs, that shall be valid and visible at all times.  
 **greater-than operater** Written as ">". Takes two operands and returns true if the left-hand operand is greater than the right-hand operand.  
 **greater-than-or-equal operator** Written as ">=". Takes two operands and returns true if the left-hand operand is greater than or equal compared to the right-hand operand.  
