@@ -7,7 +7,7 @@ for (int i = 0; i != 10; ++i)
 std::cout << i << " " << sum << std::endl;
 ```
 ####Answer
-The code is legal. The variable i defined two times but this allowed since the definitons are made in two different scopes. The output will be:  
+The code is legal. The variable i defined two times, this allowed since the definitons are made in two different scopes. The output will be:  
 ```
 100 45
 ```
