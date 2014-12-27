@@ -14,6 +14,7 @@ A
 B  
 -  
 **base type** Type specifier that precedes the declarators in a declaration. Take for example a pointer declaration to an integer `int *p;`. The base type is an int in this example and then follows a pointer declarator.  
+**bind** Coupling of a new additional name to a given entity.  
 **bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
 **block** Statements gated by curly braces.  
 **buffer** Region used to store data temporarily. Note that streams are often buffered and this may lead to unexpected behavour in some situtations.  
