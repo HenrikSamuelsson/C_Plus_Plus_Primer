@@ -1,9 +1,6 @@
 ####Question
 Which of the following definitions, if any, are invalid? Why?  
-(a)  
-```cpp
-int ival = 1.01;
-```
+(a)  `cpp int ival = 1.01;`
 (b)  
 ```cpp
 int &rval1 = 1.01;
