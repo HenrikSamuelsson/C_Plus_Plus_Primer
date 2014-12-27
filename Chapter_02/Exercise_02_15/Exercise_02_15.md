@@ -1,6 +1,5 @@
 ####Question
 Which of the following definitions, if any, are invalid? Why?  
-####Answer
 (a)  
 ```cpp
 int ival = 1.01;
