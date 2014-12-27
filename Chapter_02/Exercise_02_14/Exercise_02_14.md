@@ -3,7 +3,7 @@ Is the following code snippet legal? If so, what values are printed?
 ```cpp
 int i = 100, sum = 0;
 for (int i = 0; i != 10; ++i)
-sum += i;
+  sum += i;
 std::cout << i << " " << sum << std::endl;
 ```
 ####Answer
