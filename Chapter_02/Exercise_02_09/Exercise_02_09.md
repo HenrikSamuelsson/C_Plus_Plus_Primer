@@ -26,7 +26,7 @@ std::cin >> input_value;
 ```cpp
 double i = { 3.14 }
 ```
-(c) Not legal beacuse wage is used before it is defined. Can be written like this instead:
+(c) Not legal because wage is used before it is defined. Can be written like this instead:
 ```cpp
 double wage;
 double salary = wage = 9999.99;
