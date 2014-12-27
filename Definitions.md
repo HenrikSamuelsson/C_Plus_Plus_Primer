@@ -28,6 +28,7 @@ C
 **character string literal** Term sometimes used as synonym for string literal.  
 **cin** Object of class type istream, used for reading data, in form of characters, from the standard input.  
 **class** Fundamental feature used for creation of user defined types.  
+**class member** Part of a class. Can either be data or function declarations.  
 **class type** Defined using class specifiers. The definiton starts with the class, struct or union keyword, other parts are the class name and class member declarations.  
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 **comment** Code that is ignored by the compiler. Written for the developers by the developers to document and clarify the code.  
