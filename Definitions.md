@@ -19,7 +19,7 @@ B
 **block** Statements gated by curly braces.  
 **buffer** Region used to store data temporarily. Note that streams are often buffered and this may lead to unexpected behavour in some situtations.  
 **built-in type** Type defined by the language itself, common examples are bool, char, int, double.  
-**byte** The smallest unit of memory that can be directly addressed. A byte will, usually, hold 8 bits of data.  
+**byte** The smallest unit of memory that can be directly addressed. A byte will usually hold 8 bits of data.  
 C
 -  
 **call operator** Written as "()". Executes a function.  
