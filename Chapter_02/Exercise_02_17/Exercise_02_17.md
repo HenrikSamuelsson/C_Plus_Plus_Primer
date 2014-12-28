@@ -9,4 +9,6 @@ What does the following code print?
   std::cout << i << " " << ri << std::endl;
 ```
 ####Answer  
-10 10  
+```cpp
+10 10 
+```
