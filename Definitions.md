@@ -33,7 +33,7 @@ C
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 **comment** Code that is ignored by the compiler. Written for the developers by the developers to document and clarify the code.  
 **compound assignment operator** Written as "+=". Will add the right-hand operand to the left-hand operand and store the result in the left-hand operand.  
-**compound type** Type that is constructed from fundamental types that is, array, function, object pointer, function pointer, member object pointer, member function pointer, reference, class, union, or enumeration, including any cv-qualified variants.  
+**compound type** Type that is constructed from fundamental types. Can be array, function, object pointer, function pointer, member object pointer, member function pointer, reference, class, union, or enumeration, including any cv-qualified variants.   
 **condition** Expression that will be evaluted during program execution to either true or false.  
 **constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
 **cout** Object of class type ostream, used for writing data to an output.  
