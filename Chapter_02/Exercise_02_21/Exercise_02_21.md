@@ -19,6 +19,6 @@ int *p = &i;
 ####Answer  
 (a) Invalid, this code tries to make a pointer to a double point at an int variable, this is not allowed.  
 
-(b)  Invalid, this code tries to assign an int value to a pointer. This is not allowed pointers shall be assigned to an address of a variable.   
+(b)  Invalid, this code tries to assign an int value to a pointer. This is not allowed, it is adresses that shall be assigned to pointers.  
 
 (c)  Valid, makes the pointer p point at i.  
