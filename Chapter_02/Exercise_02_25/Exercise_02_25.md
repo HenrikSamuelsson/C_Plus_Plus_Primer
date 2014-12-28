@@ -23,7 +23,7 @@ i is of type int
 r is of type reference to int  
 
 (b)  
-i is of type int
+i is of type int  
 ip is of type pointer to int
 
 (c)  
