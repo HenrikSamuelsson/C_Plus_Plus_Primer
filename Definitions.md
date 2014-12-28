@@ -13,7 +13,7 @@ A
 **auto** Keyword indicating that a variables type shall be automatically deduced from its initializer. Primarily useful in generic programming.  
 B  
 -  
-**base type** Type specifier that precedes the declarators in a declaration. Take for example a pointer declaration to an integer - int *p. The base type is an int in this example and then follows a pointer declarator.  
+**base type** Type specifier that precedes the declarators in a declaration. Take for example a pointer declaration to an integer `int *p;`. The base type is an int in this example and then follows a pointer declarator.  
 **bind** Coupling of a new additional name to a given entity.  
 **bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
 **block** Statements gated by curly braces.  
@@ -32,7 +32,8 @@ C
 **class type** Defined using class specifiers. The definiton starts with the class, struct or union keyword, other parts are the class name and class member declarations.  
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 **comment** Code that is ignored by the compiler. Written for the developers by the developers to document and clarify the code.  
-**compound assignment operator** Written as "+=". Will add the right hand-operator to the left-hand operator and store the result in the left-hand operator.  
+**compound assignment operator** Written as "+=". Will add the right-hand operand to the left-hand operand and store the result in the left-hand operand.  
+**compound type** Type that is constructed from fundamental types that is, array, function, object pointer, function pointer, member object pointer, member function pointer, reference, class, union, or enumeration, including any cv-qualified variants.  
 **condition** Expression that will be evaluted during program execution to either true or false.  
 **constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
 **cout** Object of class type ostream, used for writing data to an output.  
