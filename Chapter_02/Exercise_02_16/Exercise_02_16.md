@@ -23,6 +23,9 @@ r1 = d;
 ```
 ####Answer  
 (a) Valid, will assign the value 3.14159 to the variable that r2 refers to.  
+
 (b) Valid, will copy the value of the variable that r1 refers to the variable that r2 refers to.  
+
 (c) Valid, the value of the variable that r2 refers to will be copied to i. Note that som information can be lost since a truncation will take place where any decimals will be thrown away.  
+
 (d) Valid, the value of d will be copied to the variable that r1 refers to. Note that som information can be lost since a truncation will take place where any decimals will be thrown away.  
