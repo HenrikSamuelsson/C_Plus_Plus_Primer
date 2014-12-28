@@ -1,6 +1,6 @@
 Definitions  
 ===========  
-Collection of terms, listed alphabetically, that are related to the C++ programming language.  
+Collection of terms, listed alphabetically, related to the C++ programming language.  
 A  
 -  
 **abstract data type** Model for a certain class of data structures that have similar behavior. An abstract data type is defined only by the operations that may be performed on it.  
