@@ -36,6 +36,7 @@ C
 **compound assignment operator** Written as "+=". Will add the right-hand operand to the left-hand operand and store the result in the left-hand operand.  
 **compound type** Type that is constructed from fundamental types. Can be array, function, object pointer, function pointer, member object pointer, member function pointer, reference, class, union, or enumeration, including any cv-qualified variants.   
 **condition** Expression that will be evaluted during program execution to either true or false.  
+**const** Type qualifier used to specify that the object or variable is not modifiable.  
 **constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
 **cout** Object of class type ostream, used for writing data to an output.  
 **curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
