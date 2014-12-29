@@ -1,9 +1,6 @@
 ####Question
 Which of the following initializations are legal? Explain why.  
-(a)
-```cpp
-int i = -1, &r = 0;
-```
+(a) `int i = -1, &r = 0;`
 (b)
 ```cpp
 int *const p2 = &i2;
