@@ -20,4 +20,4 @@ const int sz = cnt;
 (a) Illegal a const variable must be initialized.  
 (b) Legal.  
 (c) Legal, assuming that cnt have been initialized.  
-(d) Incrementing cnt is legal. It is not legal to increment sz.   
+(d) Incrementing cnt is legal. It is not legal to increment sz because it is defined as const.   
