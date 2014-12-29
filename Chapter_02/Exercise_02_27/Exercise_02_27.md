@@ -1,30 +1,12 @@
 ####Question
 Which of the following initializations are legal? Explain why.  
-(a) `int i = -1, &r = 0;`
-(b)
-```cpp
-int *const p2 = &i2;
-```
-(c)
-```cpp
-const int i = -1, &r = 0;
-```
-(d)
-```cpp
-const int *const p3 = &i2;
-```
-(e)
-```cpp
-const int *p1 = &i2;
-```
-(f)
-```cpp
-const int &const r2;
-```
-(g)
-```cpp
-const int i2 = i, &r = i;
-```
+(a) `int i = -1, &r = 0;`  
+(b) `int *const p2 = &i2;`  
+(c) `const int i = -1, &r = 0;`  
+(d) `const int *const p3 = &i2;`  
+(e) `const int *p1 = &i2;`  
+(f) `const int &const r2;`  
+(g) `int i2 = i, &r = i;`  
 ####Answer  
 (a) The initalization of i is legal, r is not since it is not allowed to initialize a non const reference to a literal.  
 (b) Legal initalization assuming that i2 have been defined as an int previously in the same scope.  
