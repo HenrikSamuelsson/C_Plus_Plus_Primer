@@ -35,4 +35,4 @@ const int i2 = i, &r = i;
 (d) Legal initalization assuming that i2 have been defined as an int previously in the same scope.  
 (e) Legal initalization assuming that i2 have been defined as an int previously in the same scope.  
 (f) Not legal, multiple problems with this initialization. Can not really tell what the author of this line is trying to do.  
-(g) The initialization of i2 is legal. The initialization of r is assuming that i have been defined as an int previously in the same scope.  
+(g) The initialization of i2 is legal. The initialization of r is legal assuming that i have been defined, as som type that can be converted to int, previously in the same scope.  
