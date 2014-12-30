@@ -8,7 +8,7 @@ Which of the following initializations are legal? Explain why.
 (f) `const int &const r2;`  
 (g) `int i2 = i, &r = i;`  
 ####Answer  
-(a) The initalization of i is legal, r is not since it is not allowed to initialize a non const reference to a literal.  
+(a) The initalization of i is legal. The initalization of r is not since it is not allowed to initialize a non const reference to a literal.  
 (b) Legal initalization assuming that i2 have been defined as an int previously in the same scope.  
 (c) Both initializations are legal, i is an int, r is a const reference this time meaning that it is valid to assign it to a literal.  
 (d) Legal initalization assuming that i2 have been defined as an int previously in the same scope.  
