@@ -22,6 +22,7 @@ using std::string;
  */
 int main() {
     string s1, s2;
+    
     cin >> s1 >> s2;
     if(s1 == s2) {
         cout << "The two strings are equal.";
