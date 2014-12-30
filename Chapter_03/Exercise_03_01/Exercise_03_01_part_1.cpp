@@ -14,10 +14,13 @@ using std::endl;
 
 int main() {
     int sum = 0, val = 1;
+    
     // Keep executing the while as long as val is less than or equal to 10.
     while (val <= 10) {
         sum += val;     // Assigns sum + val to sum.
         ++val;          // Add 1 to val.
     }
     cout << "Sum of 1 to 10 inclusive is " << sum << endl;
+    
+    return 0;
 }
