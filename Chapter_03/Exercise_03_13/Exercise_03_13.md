@@ -1,12 +1,12 @@
 ####Question  
 How many elements are there in each of the following vectors? What are the values of the elements?  
-(a) ´vector<int> v1;´  
-(b) ´vector<int> v2(10);´  
-(c) ´vector<int> v3(10, 42);´  
-(d) ´vector<int> v4{10};´  
-(e) ´vector<int> v5{10, 42};´  
-(f) ´vector<string> v6{10};´  
-(g) ´vector<string> v7{10, "hi"};´  
+(a) `vector<int> v1;`  
+(b) `vector<int> v2(10);`  
+(c) `vector<int> v3(10, 42);`  
+(d) `vector<int> v4{10};`  
+(e) `vector<int> v5{10, 42};`  
+(f) `vector<string> v6{10};`  
+(g) `vector<string> v7{10, "hi"};`  
 ####Answer
 (a) 0 elements, of type int.  
 (b) 10 elements, of type int, all set to 0.  
