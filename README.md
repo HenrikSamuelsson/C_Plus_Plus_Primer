@@ -3,7 +3,7 @@ C_Plus_Plus_Primer_Solutions
 
 Exercises done while reading the book "C++ Primer".  
 
-All content in this repostiory are based on exercises and examples from the 5th edition of the book. Note that this is mostly my personal solutions so there is no guarantee when it comes to quality or correctnes.  
+All content in this repostiory are based on exercises and examples from the 5th edition of the book. Note that this is mostly my personal solutions so there is no guarantee when it comes to quality or correctness.  
 
 Book details  
 Title: C++ Primer (5th Edition)  
