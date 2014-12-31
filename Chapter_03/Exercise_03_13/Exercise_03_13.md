@@ -10,8 +10,8 @@ How many elements are there in each of the following vectors? What are the value
 ####Answer
 (a) 0 elements, of type int.  
 (b) 10 elements, of type int, all set to 0.  
-(c) 10 elements, of type int, all set to 42.
-(d) 1 int elemnt, of type int, set to 10.  
-(e) 2 int elements, of type int, set to 10 and 42.
+(c) 10 elements, of type int, all set to 42.  
+(d) 1 element, of type int, set to 10.  
+(e) 2 elements, of type int, set to 10 and 42.  
 (f) 10 elements, of type string, all set to empty string.  
 (g) 10 elements, of type string, all set to empty string.  
