@@ -1,5 +1,5 @@
 ####Question  
-Which, if any, of the following vector definitions are in error? For thos that are legal, explain what the definitions does. For those that are not legal, explain why they are illegal.
+Which, if any, of the following vector definitions are in error? For thos that are legal, explain what the definitions does. For those that are not legal, explain why they are illegal.  
 (a) `vector<vector<int>> ivec;`  
 (b) `vector<string> svec = ivec;`  
 (c) `vector<string> svec(10, "null");`  
