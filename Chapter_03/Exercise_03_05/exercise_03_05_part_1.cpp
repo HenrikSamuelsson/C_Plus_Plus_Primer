@@ -13,9 +13,11 @@ using std::string;
 
 int main() {
     string temp, result;
+    
     while(cin >> temp) {
         result.append(temp);
     }
     cout << result;
+    
     return 0;
 }
