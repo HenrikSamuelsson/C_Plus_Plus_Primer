@@ -2,7 +2,7 @@
  * @file
  *      exercise_03_05_part_2.cpp
  * @author
- *      Henrik Samuelsson, henrik.somuelsson(at)gmail.com
+ *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  */
 #include <iostream>
 #include <string>
