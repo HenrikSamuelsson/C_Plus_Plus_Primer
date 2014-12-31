@@ -15,7 +15,7 @@ using std::string;
  *      Using a range for loop to change all the characters in a string to x.
  * @details
  *      Almost the same code as in exercise 3.6 but with the loop control
- *      variable explicitly defined as char, which works fine.
+ *      variable explicitly defined as char reference, which works fine.
  */
 int main() {
     string s("Hello World!");
