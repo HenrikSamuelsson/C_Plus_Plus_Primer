@@ -13,11 +13,11 @@ using std::string;
 using std::vector;
 
 int main() {
-    vector<string> ivec;
+    vector<string> s_vec;
     string temp;
     
     while (cin >> temp) {
-        ivec.push_back(temp);
+        s_vec.push_back(temp);
     }
     
     return 0;
