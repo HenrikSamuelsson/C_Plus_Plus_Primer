@@ -4,8 +4,7 @@ Revise the loop that printed the first paragraph in text to instead change the e
 ```cpp
 // Capitalize all letters in the first paragraph.
 for (auto it = text.begin(); it != text.end() && !it->empty(); ++it)
-  if(isalpha(*it))
-    *it = toupper(*it);
+  *it = toupper(*it);
     
 // Print the entire text.
 for (auto it = text.cbegin(); it != text.cend(); ++it)
