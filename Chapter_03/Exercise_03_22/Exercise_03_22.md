@@ -3,10 +3,14 @@ Revise the loop that printed the first paragraph in text to instead change the e
 ####Answer  
 ```cpp
 // Capitalize all letters in the first paragraph.
-for (auto it = text.begin(); it != text.end() && !it->empty(); ++it)
-  *it = toupper(*it);
-    
+for (auto it = text.begin(); it != text.end() && !it->empty(); ++it) {
+    string temp = *it;
+    for (std::string::size_type i=0; i < temp.length(); ++i)
+        temp[i] = toupper(temp[i]);
+    *it = temp;
+}
 // Print the entire text.
 for (auto it = text.cbegin(); it != text.cend(); ++it)
   cout << *it << endl;
+    return 0;
 ```
