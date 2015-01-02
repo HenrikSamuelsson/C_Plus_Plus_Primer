@@ -12,5 +12,4 @@ for (auto it = text.begin(); it != text.end() && !it->empty(); ++it) {
 // Print the entire text.
 for (auto it = text.cbegin(); it != text.cend(); ++it)
   cout << *it << endl;
-    return 0;
 ```
