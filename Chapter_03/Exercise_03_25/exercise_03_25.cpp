@@ -16,7 +16,7 @@ int main() {
     vector <unsigned> scores(11, 0);
     unsigned grade;
     
-    // Read grades entered by the user of the program.
+    // Read grades, entered by the user of the program.
     while(cin >> grade) {
         if (grade <= 100) {
             (*(scores.begin() + grade/10))++;
