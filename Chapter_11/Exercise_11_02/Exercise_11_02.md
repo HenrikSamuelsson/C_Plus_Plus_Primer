@@ -3,7 +3,7 @@ Give an example of when each of list, vector, deque, map, and set might be most 
 ####Answer
 A list is efficient when elements needs to be added or deleted anywhere in the list. Can for example be used for builiding a ranking list in sports or whatever that need to be ranked and then updated frequently.  
 
-A vector is based around an array. Efficient when when random access is needed. Not very efficient if an element shall be added anywhere else than at the end. A vector is for example a good choice when logging data at regular time intervalls such as temperature fluctuations over time. Each new measumerment is stored at the end and the increased index then symbolises that additonal time has passed.  
+A vector is based around an array. Efficient when when random access is needed. Not very efficient if an element shall be added anywhere else than at the end. A vector is for example a good choice when logging data at regular time intervalls such as temperature fluctuations over time. Each new measumerment is stored at the end, and the increased index then symbolises that additonal time has passed.  
 
 Deque is related to vector and they share most properties, one difference is that it is efficent to add elements both at the front and at the end of a deque. A deque can be used to build a queue.  
 
