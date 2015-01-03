@@ -25,7 +25,7 @@ bool add_child(f_map_t &families, const string family_name,
         const string child_name);
 
 /**
- * Program that test the add_family and add_child functions.
+ * Program that test the add_family and add_child function.
  */
 int main() {
    f_map_t families;    // Families and children will be added here.
