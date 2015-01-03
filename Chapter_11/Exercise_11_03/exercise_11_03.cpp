@@ -26,7 +26,7 @@ int main() {
     // Print the result of the word count.
     for (const auto &w : word_count) {  // For each element in word count.
         cout << w.first << " occurs " << w.second 
-                << ((w.second < 1) ? " times" : " time") << endl;
+                << ((w.second > 1) ? " times" : " time") << endl;
     }
     return 0;
 }
