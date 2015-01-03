@@ -56,7 +56,7 @@ int main() {
  * @brief
  *      Adds a new empty family to the map.
  * @param
- *      families Holder of all family.
+ *      families Holder of all family data.
  * @param 
  *      family_name Last name of the family.
  * @return 
