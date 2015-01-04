@@ -3,6 +3,6 @@ Write the condition for a while loop that would read integers from the standard 
 ####Answer
 ```cpp
  while (cin >> user_input && user_input != 42) { 
-        /* ... */
-    }
+  /* ... */
+ }
 ```
