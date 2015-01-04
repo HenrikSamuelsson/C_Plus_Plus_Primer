@@ -4,7 +4,6 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  */
-
 #include <exception>
 #include <memory>
 #include <string>
@@ -36,6 +35,7 @@ private:
 };
 
 StrBlob::StrBlob(): data(std::make_shared<vector<string>>()) { }
+
 StrBlob::StrBlob(std::initializer_list<std::string> il): 
         data(std::make_shared<vector<string>>(il)) { }
 
