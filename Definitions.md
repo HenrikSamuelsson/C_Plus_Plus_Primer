@@ -37,8 +37,11 @@ C
 **compound type** Type that is constructed from fundamental types. Can be array, function, object pointer, function pointer, member object pointer, member function pointer, reference, class, union, or enumeration, including any cv-qualified variants.   
 **condition** Expression that will be evaluted during program execution to either true or false.  
 **const** Type qualifier used to specify that the object or variable is not modifiable.  
-**constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
 **const pointer** Pointer that points to a const object. Is also sometimes used to describe pointers that hold a constant memory address.   
+**const reference** Colloquial synonym for reference to const.  
+**constant expression** An expression that can be evaluated at compile time.  
+**constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
+**conversion** Transforming a value of one type into a, more or less equivalent, value of another type.  
 **cout** Object of class type ostream, used for writing data to an output.  
 **curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
 D  
