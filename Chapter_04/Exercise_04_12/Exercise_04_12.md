@@ -9,7 +9,7 @@ This expression will be evaluated in the following order
 ```cpp
 i != (j < k)
 ```
-because the inequality operator have lower precedance than the less than operator. The expression j < k will hence be evaluated first to either true or false either. True will be represented as 1 and false as 0. Assume that j is less than k we then get  
+because the inequality operator have lower precedance than the less than operator. The expression j < k will hence be evaluated first to either true or false either. True will be represented as, 1 and false as 0. Assume that j is less than k we then get  
 ```cpp
 i != 1
 ```
