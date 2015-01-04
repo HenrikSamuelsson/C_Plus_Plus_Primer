@@ -11,4 +11,4 @@ StrBlob b1;
 ####Answer  
 The data in i StrBlob is stored in a shared_ptr of type vector<string>. The two StrBlob objects b1 and b2 are set to be equal in the code. This means that b1 and b2 will share the same elements.  
 
-b2 goes out of scope at the end of the code and can no longer be used. But the elements in the memory that b2 pointed at will be preserved since b1 is still using them.  
+b2 goes out of scope at the end of the code and can no longer be used. But the elements in the memory that b2 pointed at will be preserved since b1 is still using them. b1 holds a total of four elemnts at the end of the code.
