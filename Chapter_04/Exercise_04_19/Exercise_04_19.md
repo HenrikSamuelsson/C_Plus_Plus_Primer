@@ -5,15 +5,20 @@ Given that ptr points to an int, that vec is a vector<int>, and that ival is an 
 (c) `vec[ival++] <= vec[ival]`
 
 ####Answer
-(a) 
+(a) The logical AND is guaranteed to start by evaluating the left-hand side, that will check that ptr isn't a null pointer. The right-hand side will be evaluated if and only if ptr isn't a null pointer.
+
+If the right-hand side evaluted so will in be checked if the int that ptr points at is something else than 0, ptr will also be change so that it points at the next following element in the memory.  
+
+In short, it is checked that p points at an int that isn't 0, and ptr is incremented if it isn't a null pointer. I cannot spot anything wrong with this code.  
+
 (c) The problem with this code is that ival is used on both sides and it is not known what side is evaluated first. There are two different possible scenarios.  
 
-1. Execution if the right-hand side is evaluated first:  
+Execution if the right-hand side is evaluated first:  
 ```cpp
 vec[ival] <= vec[ival]  // Kind of uselesss code since it will always be true.
 ```
 
-2. Executioon if the left-hand side is evaluated first:
+Execution if the left-hand side is evaluated first:
 ```cpp
 vec[ival] <= vec[ival + 1]  // Probably the original intention of this code.  
 ```
