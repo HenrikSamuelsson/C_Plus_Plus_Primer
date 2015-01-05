@@ -4,15 +4,16 @@ Given that ptr points to an int, that vec is a vector<int>, and that ival is an 
 (b) `ival++ && ival`
 (c) `vec[ival++] <= vec[ival]`
 
-####Annswer  
-(c) The problem with this code is that ival is used on both sides and it is not known what side is evaluated first. There are two different scenarios that can happen.  
+####Answer
+(a) 
+(c) The problem with this code is that ival is used on both sides and it is not known what side is evaluated first. There are two different possible scenarios.  
 
-Execution if the right-hand side is evaluated first:  
+1. Execution if the right-hand side is evaluated first:  
 ```cpp
 vec[ival] <= vec[ival]  // Kind of uselesss code since it will always be true.
 ```
 
-Executioon if the left-hand side is evaluated first:
+2. Executioon if the left-hand side is evaluated first:
 ```cpp
 vec[ival] <= vec[ival + 1]  // Probably the original intention of this code.  
 ```
