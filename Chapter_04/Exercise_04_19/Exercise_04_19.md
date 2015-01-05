@@ -7,7 +7,7 @@ Given that ptr points to an int, that vec is a vector<int>, and that ival is an 
 ####Answer
 (a) The logical AND is guaranteed to start by evaluating the left-hand side, that will check that ptr isn't a null pointer. The right-hand side will be evaluated if and only if ptr isn't a null pointer.
 
-If the right-hand side evaluted so will in be checked if the int that ptr points at is something else than 0, ptr will also be change so that it points at the next following element in the memory.  
+If the right-hand side is indeed evaluted so will ptr be dereferenced. The logical and will evaluate to true if the int that ptr points at is something else than 0. The final thing that happens is that ptr will also be changed so that it points at the next following element in the memory.  
 
 In short, it is checked that p points at an int that isn't 0, and ptr is incremented if it isn't a null pointer. I cannot spot anything wrong with this code.  
 
