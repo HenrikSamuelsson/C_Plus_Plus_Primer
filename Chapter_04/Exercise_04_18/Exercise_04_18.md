@@ -7,4 +7,4 @@ while (pbeg != v.end() && *pbeg >= 0)
   cout << *pbeg++ << endl; // Print the current value and advance pbeg.
 ```
 ####Answer  
-The firs value in v would not be printed and possibly so could the value on step past the end of v be derefenced and printed.  
+The first value in v would not be printed and possibly so could the value on step past the end of v be derefenced and printed.  
