@@ -3,7 +3,7 @@ Although the following are legal, they probably do not behave as the programmer 
 (a) `if (p = getPtr() != 0)`  
 (b) `if (i = 1024)`  
 ####Answer  
-(a) The purpose of this code is very likely to first assign p and then run the body of the if statement if p isn't a null pointer.    
+(a) The purpose of this code is very likely to first assign p, and then run the body of the if statement if p isn't a null pointer.    
 The problem is that the not-equal-to operator have higher precedance than the assignment operator. This will result in the following order of evaluation.  
 ```cpp
 if (p = (getPtr() != 0))
