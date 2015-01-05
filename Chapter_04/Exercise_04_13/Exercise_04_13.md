@@ -1,5 +1,5 @@
 ####Question
-What are the values of i and d after each assginment?  
+What are the values of i and d after each assignment?  
 (a) `d = i = 3.5;`  
 (b) `i = d = 3.5;`  
 ####Answer  
