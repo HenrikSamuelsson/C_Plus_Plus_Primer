@@ -1,5 +1,5 @@
 ####Question
-Explain what happens in each of the if if test.  
+Explain what happens in each of the following if tests.  
 (a) `if (42 = i) { /* ... */ }`  
 (b) `if (i = 42) { /* ... */ }`  
 ####Answer  
