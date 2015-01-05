@@ -1,5 +1,5 @@
 ####Question  
-What would happen in the following while loop used the prefix operator?  
+What would happen in the following while loop if the prefix operator was used instead of the current postfix verison?  
 ```cpp
 auto pbeg = v.begin();
 // Prints elements up to the first negative value.
