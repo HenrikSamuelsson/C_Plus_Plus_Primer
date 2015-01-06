@@ -38,7 +38,7 @@ int main() {
 
 /**
  * @brief
- *      Calculates the final grade with the conditional operator.
+ *      Calculates the final grade by the use of the conditional operator.
  */
 string final_grade_1(int grade) {
     return (grade > 90) ? "high pass"
@@ -49,7 +49,7 @@ string final_grade_1(int grade) {
 
 /**
  * @brief
- *      Calculates the final grade with if statements.
+ *      Calculates the final grade by the use of if statements.
  */
 string final_grade_2(int grade) {
     string final_grade;
