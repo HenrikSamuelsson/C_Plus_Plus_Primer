@@ -1,6 +1,6 @@
 ####Question
 Our program that distinguished between high pass, pass, and fail depended on the fact that the conditional operator is right associative. Describe how that operator would be evaluated if the operator were left associative.  
-#####Answer
+####Answer
 This is the affected line of code.  
 ```cpp
 finalgrade = (grade > 90) ? "high pass" : (grade < 60 ) ? "fail" : "pass";
