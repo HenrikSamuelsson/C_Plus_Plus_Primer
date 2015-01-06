@@ -27,5 +27,5 @@ A pair of extra parentheses is needed to fix the code:
 ```cpp
 // Fixed working version.
 string s = "word";
-string pl = s + ((s[s.size() - 1] == 's') ? "" : "s") ;
+string pl = s + (s[s.size() - 1] == 's' ? "" : "s") ;
 ```
