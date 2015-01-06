@@ -13,4 +13,4 @@ If the conditional operator was left to right associative so would the code have
 ```cpp
 finalgrade = ((grade > 90) ? "high pass" : (grade < 60 )) ? "fail" : "pass";
 ```
-But this code would not even compile because the second and third operand would have a combination of types that is illegal. A list of legal operand combinations can be found [here](http://msdn.microsoft.com/en-us/library/e4213hs1.aspx).  
+But this code would not even compile because the second and third operand would have a combination of types that is illegal. A list of legal conditional operator operand combinations can be found [here](http://msdn.microsoft.com/en-us/library/e4213hs1.aspx).  
