@@ -11,7 +11,7 @@ The NOT operator (~) have higher precedence than the shift (<<), so the next ste
 ```cpp
 1111 1111 1111 1111 1111 1111 1000 1110
 ```
-The last step is the shift 6 steps to the left.
+The last part is the shifting which will be 6 steps to the left.
 ```cpp
 1111 1111 1111 1111 1110 0011 1000 0000
 ```
