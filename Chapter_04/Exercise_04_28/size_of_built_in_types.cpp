@@ -1,8 +1,12 @@
 /**
- * \file
- *      size_of_built_in_types.cpp
- * \author
- *      Henrik Samuelsson
+ * @file
+ *      exercise_04_28.cpp
+ * @author
+ *      Henrik Samuelsson, henrik.samuelsson(@)gmail.com
+ * @brief
+ *      C++ Primer (5th Edition), exercise 4.28
+ * @details
+ *      Write a program to print the size of each of the built-in types.  
  */
 #include <iostream>
 
@@ -34,4 +38,3 @@ int main() {
     
     return 0;
 }
-
