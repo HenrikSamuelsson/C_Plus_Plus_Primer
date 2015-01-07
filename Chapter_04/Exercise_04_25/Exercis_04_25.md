@@ -3,7 +3,7 @@ What is the value of `~'q' << 6` on a machine with 32-bit ints and 8 bit chars, 
 ####Answer  
 Lets go through this one step by step with partial results presented in binary, grouped by four for readability.  
 
-The first thing that will happen before the actual bit manipulation is started is that our character will be promoted to int. This will add 0 bits to the high order bits.  
+The first thing that will happen before the actual bit manipulation is started is that our character will be promoted to int. This will add 0-bits to the high order bits.  
 ```cpp
 0000 0000 0000 0000 0000 0000 0111 0001
 ```
