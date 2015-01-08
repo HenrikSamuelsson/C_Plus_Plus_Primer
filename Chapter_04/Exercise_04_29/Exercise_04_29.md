@@ -7,6 +7,6 @@ cout << sizeof(x)/sizeof(*x) << endl;
 cout << sizeof(p)/sizeof(*p) << endl;
 ```
 ####Answer  
-sizeof(x) will give the size of the entire array which means 10 ints times the size of an int. sizeof a dereferenced pointer returns the size of an object of the type to which the pointer points. sizeof(*x) will be size of an int because x is an array of ints. The first print statement will print 10 (and "new line") regardless of the size of an int since this factor will be divided away.  
+sizeof(x) will give the size of the entire array which means 10 ints times the size of an int. sizeof a dereferenced pointer returns the size of an object of the type to which the pointer points. sizeof(*x) will be size of an int because x is an array of ints. The first print statement will hence print 10 (and "new line") regardless of the size of an int since this factor will be divided away.  
 
-sizeof(p) will return the size of a pointer on the current system, will be 4 on my system. sizeof(*p) will, according to above discussion, in this case be the size of an int, will be 4 on my system. 4 divided by 4 equals 1 so 1 (and "new line") will be printed by the second print statement.  
+sizeof(p) will return the size of a pointer on the current system, will be 4 on my system. sizeof(*p) will, according to above discussion, be the size of an int. The size of int is 4 on my system. 4 divided by 4 equals 1 so 1 (and "new line") will be printed by the second print statement.  
