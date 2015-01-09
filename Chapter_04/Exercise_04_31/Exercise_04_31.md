@@ -8,7 +8,7 @@ for (vector<int>::size_type ix = 0; ix != ivec.size(); ++ix, --cnt)
 ivec[ix] = cnt;
 ```
 ####Answer
-The postfix version is in some situations more expensive than the prefix version, because objects may have to be copied. This means that it is a good habit to use the prefix version as often as possible. This is why the prefix version is used in the example program in this exercise.  
+The postfix version is in some situations more expensive than the prefix version, because objects may have to be copied. This means that it is a good habit to use the prefix version as often as possible, this is why the prefix version was used.
 
 The equivalent code snippet using postfix: 
 ```cpp
