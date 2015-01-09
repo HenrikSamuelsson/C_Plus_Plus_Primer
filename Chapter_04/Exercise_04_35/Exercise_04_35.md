@@ -10,7 +10,7 @@ identify the implicit type conversion, if any, taking place in the following exp
 (c) `dval = ui * fval;`  
 (d) `cval = ival + fval + dval;`  
 ####Answer
-(a) The char variable 'a' will be promoted to int, this int will be added with the int literal 3. The result of the addition is converted to char and assigned to cval.  
+(a) The char variable 'a' will be promoted to int, this int will be added with the int literal 3. The result of the addition is an int that is converted to char and assigned to cval.  
 
 (b) The multiplication will be evalauted first. The literal 1.0 have the type double so ival will be implcitly converted to double before the multiplication is done. ui will be converted to double since the other operand of the subtraction is the result from the multiplicaton which is a double. The result of the subtraction shall be assigned to a char, this means that a conversion from double to char will be done.  
 
