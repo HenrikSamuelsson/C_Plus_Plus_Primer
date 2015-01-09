@@ -4,11 +4,11 @@ Using the C++ operator precedence rules explain what the following expression do
 someValue ? ++x, ++y : --x, --y
 ```
 #####Answer
-This expression is valid and will be evaluated in the following order 
+This expression is valid and will be evaluated in the following way:
 ```cpp
 someValue ? (++x, ++y) : (--x, --y)
 ```
-because the comma operator have lower precedence than the conditional operator.  
+This is because the comma operator have lower precedence than the conditional operator.  
 
 The first operand i.e. ++x, ++y will be executed if someValue is (something interpreted as) true. The entire expression will in this case be evaluted to the result of ++y. 
 
