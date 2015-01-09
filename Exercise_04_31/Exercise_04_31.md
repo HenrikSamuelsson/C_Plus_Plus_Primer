@@ -14,4 +14,4 @@ The first operand i.e. ++x, ++y will be executed if someValue is (something inte
 
 The other case is if someValue is (something interpreted as) false, this will cause --x, --y to be executed instead. The entire expression will in this case be evaluted to the result of --y.  
 
-Note that an altered y is always returned by the expresion, but both x and y will be will be altered. We do not know the types of x and y. It is however likely that they are defined as for example pointers or references, to be increased or decreased in the expression.   
+Note that an altered y is always returned by the expresion, but both x and y will be altered. We do not know the types of x and y. It is however likely that they are defined as for example pointers or references, to be increased or decreased in the expression.   
