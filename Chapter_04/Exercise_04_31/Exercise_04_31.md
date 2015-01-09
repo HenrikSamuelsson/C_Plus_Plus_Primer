@@ -1,5 +1,5 @@
 ####Question  
-The code snippet below uses the prefix version of the increment and decrement operators. Explain why the prefix was used and not postfix. Also write the snippet using postfix operators.  
+The code snippet below uses the prefix version of the increment and decrement operators. Explain why the prefix was used and not postfix. Also rewrite the code using postfix operators.  
 ```cpp
 vector<int>::size_type cnt = ivec.size();
 
