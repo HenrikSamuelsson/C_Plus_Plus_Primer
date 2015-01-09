@@ -1,6 +1,6 @@
 ####Question
 Given the following variable definitions and expressions, explain what conversions take place.  
-`char cval; double dval; foat fval; int ival;`  
+`char cval; double dval; float fval; int ival;`  
 (a) `if (fval)`  
 (b) `dval = fval + ival`  
 (c) `dval + ival * cval`  
