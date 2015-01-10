@@ -13,7 +13,7 @@ rewrite each of the following old-style casts to use a named cast.
 (c) `pv = &d;`  
 (d) `pc = (char*) pv`  
 ####Answer  
-(a) pv = static_cast<void>(const_cast<string*>(ps));  
-(b) i = static_cast<int>(*pc);  
-(c) pv = static_cast<void>(&d);  
-(d) pc = static_cast<char*>(pv);  
+(a) `pv = static_cast<void>(const_cast<string*>(ps));`  
+(b) `i = static_cast<int>(*pc);`  
+(c) `pv = static_cast<void>(&d);`  
+(d) `pc = static_cast<char*>(pv);`  
