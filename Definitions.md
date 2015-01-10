@@ -46,6 +46,7 @@ C
 **curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
 D  
 -  
+**data member** Content in a class used for storing data. Every object of an class holds it's own copies of this data.  
 **data structure** Data elements grouped together under one name.  
 **decltype** A keyword used to query the type of an expression. Comes in handy in generic programming where it can be difficult to deduct the type of an expression.  
 **decrement operator** Written as "--". Subtracts 1 from the operand.  
