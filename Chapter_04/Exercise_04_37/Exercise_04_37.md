@@ -13,5 +13,5 @@ rewrite each of the following old-style casts to use a named cast.
 (c) `pv = &d;`  
 (d) `pc = (char*) pv`  
 ####Answer  
-(a) pv = static_cast<void*>(ps);
+(a) pv = const_cast<string*>(ps);
 TODO b c d
