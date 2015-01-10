@@ -49,6 +49,7 @@ D
 **data member** Content in a class used for storing data. Every object of an class holds it's own copies of this data.  
 **data structure** Data elements grouped together under one name.  
 **declaration** Introduces or re-introduces the existance of a name or prorgram element into a program, will typically refer to a variable.  
+**declarator** Thu sub-part of an declaration that contains the name and possibly type modifiers.    
 **decltype** A keyword used to query the type of an expression. Comes in handy in generic programming where it can be difficult to deduct the type of an expression.  
 **decrement operator** Written as "--". Subtracts 1 from the operand.  
 **dot operator** Written as ".". Used to reference individual members of classes, structures, and unions. The dot operator is applied to the actual object.  
