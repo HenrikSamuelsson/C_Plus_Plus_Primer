@@ -36,6 +36,7 @@ C
 **comment** Code that is ignored by the compiler. Written for the developers by the developers to document and clarify the code.  
 **compound assignment operator** Written as "+=". Will add the right-hand operand to the left-hand operand and store the result in the left-hand operand.  
 **compound type** Type that is constructed from fundamental types. Can be array, function, object pointer, function pointer, member object pointer, member function pointer, reference, class, union, or enumeration, including any cv-qualified variants.   
+**container** A holder object that stores a collection of other objects.   
 **condition** Expression that will be evaluted during program execution to either true or false.  
 **const** Type qualifier used to specify that the object or variable is not modifiable.  
 **const pointer** Pointer that points to a const object. Is also sometimes used to describe pointers that hold a constant memory address.   
