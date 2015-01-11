@@ -52,11 +52,11 @@ if (int ival = get_value())
 else 
   cout << "ival = 0\n";
 ```
-The variable ival is just temporarly will be lost when the first if ends. The code could hence be optimized by removing the entire if-else structure and just write:  
+The variable ival is just temporary and will be lost when the first if ends. The code could hence be optimized, by removing the entire if-else structure, and just write:  
 ```cpp
 cout << "ival = " << get_value() << endl;
 ```
-(d) The assignment in the if shall be a comparison:  
+(d) The assignment in the if should be a comparison:  
 ```cpp
 if(ival == 0)
   ival = get_value();
