@@ -14,7 +14,7 @@ A
 **auto** Keyword indicating that a variables type shall be automatically deduced from its initializer. Primarily useful in generic programming.  
 B  
 -  
-**base type** Type specifier that precedes the declarators in a declaration. Take for example a referenc declaration to an integer "int &r = i;". The base type is an int in this example and then follows a reference declarator.  
+**base type** Type specifier that precedes the declarators in a declaration. Take for example a reference declaration to an int "int &r = i;". The base type is an int in this example and then follows a reference declarator.  
 **begin** Member of string and vector that returns an iterator pointing to the first element in the sequence. May also refer to the related library function that takes a pointer to an array and returns the first element in the array.  
 **bind** Coupling of a new additional name to a given entity.  
 **bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
