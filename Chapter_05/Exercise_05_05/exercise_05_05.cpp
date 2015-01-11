@@ -1,10 +1,10 @@
 /**
  * @file
- *      exercise_05_06.cpp
+ *      exercise_05_05.cpp
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 5.6 from the book C++ Primer (5th edition)
+ *      Exercise 5.5 from the book C++ Primer (5th edition)
  * @details
  *      Using an if-else statement, write your own version to generate the 
  *      letter grade from a numeric grade.
