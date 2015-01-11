@@ -15,6 +15,7 @@ A
 B  
 -  
 **base type** Type specifier that precedes the declarators in a declaration. Take for example a pointer declaration to an integer `int *p;`. The base type is an int in this example and then follows a pointer declarator.  
+**begin** Member of string and vector that returns an iterator pointing to the first element in the sequence. May also refer to the related library function that takes a pointer to an array and returns the first element in the array.  
 **bind** Coupling of a new additional name to a given entity.  
 **bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
 **block** Statements gated by curly braces.  
@@ -35,6 +36,7 @@ C
 **comment** Code that is ignored by the compiler. Written for the developers by the developers to document and clarify the code.  
 **compound assignment operator** Written as "+=". Will add the right-hand operand to the left-hand operand and store the result in the left-hand operand.  
 **compound type** Type that is constructed from fundamental types. Can be array, function, object pointer, function pointer, member object pointer, member function pointer, reference, class, union, or enumeration, including any cv-qualified variants.   
+**container** A holder object that stores a collection of other objects.   
 **condition** Expression that will be evaluted during program execution to either true or false.  
 **const** Type qualifier used to specify that the object or variable is not modifiable.  
 **const pointer** Pointer that points to a const object. Is also sometimes used to describe pointers that hold a constant memory address.   
@@ -43,12 +45,18 @@ C
 **constexpr** Specifier used to declare that it is possible to evaluate the value of the function or variable at compile time.  
 **conversion** Transforming a value of one type into a, more or less equivalent, value of another type.  
 **cout** Object of class type ostream, used for writing data to an output.  
+**c-style string** Null-terminated character array. Included in the c++ language mostly for backwards compatibility with c.  
 **curly brace** Symbol that comes i two different shapes, the open curly ({), and the close curly (}). Used to indicate where a block starts and ends in the code.  
 D  
 -  
+**data member** Content in a class used for storing data. Every object of an class holds it's own copies of this data.  
 **data structure** Data elements grouped together under one name.  
+**declaration** Introduces or re-introduces the existance of a name or prorgram element into a program, will typically refer to a variable.  
+**declarator** Thu sub-part of an declaration that contains the name and possibly type modifiers.    
 **decltype** A keyword used to query the type of an expression. Comes in handy in generic programming where it can be difficult to deduct the type of an expression.  
 **decrement operator** Written as "--". Subtracts 1 from the operand.  
+**default initialazation** Sets objects to default values, if not explicitly initialized. Values are class dependant for class type objects. Built-in types are default initialized to 0 if and only if defined in the global scope.  
+**definition** A declaration that specifies the entity to which the declared name refers. A definition of a variable will include the type of the varibale. Enough memory is then allocated for storing of the variable.  
 **dot operator** Written as ".". Used to reference individual members of classes, structures, and unions. The dot operator is applied to the actual object.  
 E  
 - 
