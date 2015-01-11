@@ -25,19 +25,39 @@ if(ival = 0)
   ival = get_value();
 ```
 ####Answer  
-(a)  
+(a) Missing semicolon and bad indentation style in the original. Fixed version:
 ```cpp
-
+if (ival1 != ival2)
+  ival1 = ival2;
+else 
+  ival1 = ival2 = 0;
 ```
-(b)  
+(b) No syntax error but possibly a logic error in the original because the indentation looks strange. Should maybe be like this:
 ```cpp
-
+if (ival < minval)
+  minval = ival1;
+occurs = 1;
 ```
-(c)  
+Or possibly like this:
 ```cpp
-
+if (ival < minval) {
+  minval = ival1;
+  occurs = 1;
+}
 ```
-(d)  
+(c)  The second if should be replaced by an else:  
 ```cpp
-
+if (int ival = get_value())
+  cout << "ival = " << ival << endl;
+else 
+  cout << "ival = 0\n";
+```
+Ival will be lost when the first if ends so could also optimize and just write:  
+```cpp
+cout << "ival = " << get_value() << endl;
+```
+(d) The assginment in the if shall be a comparison:  
+```cpp
+if(ival == 0)
+  ival = get_value();
 ```
