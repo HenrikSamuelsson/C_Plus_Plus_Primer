@@ -66,7 +66,7 @@ E
 **end-of-file** Special marker indicating that there is no more data left to read in a file, the exact representation is system defined.  
 **EOF** Abbreviaton for end-of-file.  
 **equality operator** Written as "==". Takes two operands, evaluates to true if both operands are equal, and false if this is not the case.  
-**escape character** The backslash character (\). Indicates the start of an escape sequence.   
+**escape character** The backslash character "\". Indicates the start of an escape sequence.   
 **escape sequence** Sequence of characters that represent a single character, will always start with the escape character. Typically used to be able to represent non printable characters.  
 **expression** A combination of one ore more operands and usually one ore more operators. The evaluation results in a value.  
 F  
