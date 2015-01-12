@@ -26,7 +26,7 @@ int main() {
     int space_cnt = 0, tab_cnt = 0, nl_cnt = 0;
     char c;
     
-    // Get input and count the vowels.
+    // Get input and count the characters that we are intersted in.
     while (cin >> std::noskipws >> c) {
         switch (c) {
             case 'a': case 'A':
