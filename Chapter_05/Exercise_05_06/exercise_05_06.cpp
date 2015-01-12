@@ -4,7 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 5.6 from the book C++ Primer (5th edition)
+ *      Exercise 5.6 from the book C++ Primer (5th edition).
  * @details
  *      Rewrite your grading program to use the conditional operator in place
  *      of the if-else statement.
