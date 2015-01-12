@@ -87,10 +87,13 @@ G
 H  
 -  
 **header** Section at the top of file with include directives. A convinient way to make it possible to use definitons from other files.  
+**header guard** Preprocessor construct used to avoid the problem of double inclusion when dealing with the include directive.  
 I  
 -  
+**identifier** Sequence of character used to denote objects, variables, structures, functions, and other elements to be named in the code that make up C++ programs.  
 **if statement** Mechanism that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
 **in-class initializer** Initalization of a class data member when it is declared.  
+**in scope** Identifier that is visible, at a given place in the code, and can hence be used.  
 **include directive** Written as "#include". This provides a mechanism for textual inclusion of one source file into another.  
 **incomplete type** Type that at a given time have been declared but lacks a definiton.  
 **increment operator** Written as "++". Adds 1 to the operand.  
