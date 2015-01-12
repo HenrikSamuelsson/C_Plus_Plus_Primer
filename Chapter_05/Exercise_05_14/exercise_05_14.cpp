@@ -4,7 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 5.14 from the book C++ Primer (5th edition)
+ *      Exercise 5.14 from the book C++ Primer (5th edition).
  */
 #include <iostream>
 #include <string>
@@ -22,7 +22,7 @@ int main() {
     s_max = s1;
     max = cnt = 1;
 
-    // And then continue as long as there are more strings to read
+    // And then continue as long as there are more strings to read.
     while (cin >> s2) {
         if (s1 == s2) {
             ++cnt;
