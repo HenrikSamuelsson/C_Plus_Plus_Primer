@@ -4,7 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 5.11 from the book C++ Primer (5th edition)
+ *      Exercise 5.11 from the book C++ Primer (5th edition).
  * @details
  *      Modify our vowel-counting program so that it also counts the number of 
  *      blanks spaces, tabs, and newlines.
