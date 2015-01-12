@@ -4,7 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 5.9 from the book C++ Primer (5th edition)
+ *      Exercise 5.9 from the book C++ Primer (5th edition).
  * @details
  *      Write a program using o series of if statements to count the number of 
  *      vowels in text read from cin. 
