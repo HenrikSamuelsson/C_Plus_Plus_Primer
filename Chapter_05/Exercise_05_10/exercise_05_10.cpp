@@ -4,7 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 5.10 from the book C++ Primer (5th edition)
+ *      Exercise 5.10 from the book C++ Primer (5th edition).
  * @details
  *      There is one problem with our vowel-counting program as we have
  *      implemented it: It does not count capital letters as vowels. Write a
