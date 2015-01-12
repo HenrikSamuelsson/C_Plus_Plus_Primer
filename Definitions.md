@@ -87,6 +87,7 @@ G
 H  
 -  
 **header** Section at the top of file with include directives. A convinient way to make it possible to use definitons from other files.  
+**header guard** Preprocessor construct used to avoid the problem of double inclusion when dealing with the include directive.  
 I  
 -  
 **if statement** Mechanism that makes it possible to choose if a certain block of code shall be run or not, depending on a run time condition.  
