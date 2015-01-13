@@ -102,6 +102,7 @@ I
 **inline function** A function qualified with the keyword inline. Suggests to the compiler that it should substitute the function call with the body of the function inline. This saves on the overhead caused by function calls but requires more memory to store the code.  
 **inner scope** A scope nested inside of another scope.  
 **input operator** Written as ">>" Reads from an input specified in the left-hand operand and the data is stored in the right-hand operand.  
+**integral type** A type which represents some finite subset of the mathematical integers.  
 **iostream** Header that defines the standard input/output stream objects.  
 **istream** Input stream objects that read and interpret input from sequences of characters.  
 L  
