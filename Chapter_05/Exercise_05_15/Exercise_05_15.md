@@ -22,7 +22,7 @@ for (int ix = 0; ix != sz; ++ix, ++ sz) {
 }
 ```
 ####Answer  
-All the loops in this exercise are intended to be iterated until ix is the same a sz, because ix starts at 0 and runs up to, not including, sz.  
+All the loops in this exercise are intended to be iterated until ix is the same as sz, because ix starts at 0 and runs up to, not including, sz.  
 
 (a) The problem is that ix is being used while no longer in scope. The definition of ix must be moved outside of the loop:  
 ```cpp
