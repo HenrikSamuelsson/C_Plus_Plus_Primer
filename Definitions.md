@@ -111,6 +111,7 @@ L
 **less-than operator** Written as "<". Takes two operands and returns true if the left-hand operand is less than the right-hand operand.  
 **less-than-or-equal operator** Written as "<=". Takes two operands and returns true if the left-hand operand is less than or equal compared to the right-hand operand.  
 **library type** Type defined by the C++ Standard Library.  
+**list initialization** Initialization of an object by the use of a braced-init-list.  
 M
 -  
 **main** Function called by the system when starting to execute a C++ program.  
