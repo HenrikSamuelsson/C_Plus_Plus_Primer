@@ -115,10 +115,12 @@ L
 **list initialization** Initialization of an object by the use of a braced-init-list.  
 **literal** Constant value included directly in the code. Can be of various tyes such as, a number like 42, a string like "Hello world", a character like 'c'.  
 **local scope** Colloquial synonym for block scope.  
+**low-level const** A const that is not top-level. Such consts are integral to the type and are never ignored.  
 M
 -  
 **main** Function called by the system when starting to execute a C++ program.  
 **manipulator** Functions specifically designed to be used in conjunction with the insertion (<<) and extraction (>>) operators on stream objects. One example of such a function is std::endl.  
+**member** Type, variable, constant, or function declared in a class.  
 **member function** Function declared in the scope of a class. Usually called to operate on a specific object.  
 **method** Synonym for (virtual) member function.  
 N  
