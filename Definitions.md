@@ -112,6 +112,7 @@ L
 **less-than-or-equal operator** Written as "<=". Takes two operands and returns true if the left-hand operand is less than or equal compared to the right-hand operand.  
 **library type** Type defined by the C++ Standard Library.  
 **list initialization** Initialization of an object by the use of a braced-init-list.  
+**literal** Constant value included directly in the code. Can be of various tyes such as, a number like 42, a string like "Hello World", a character like 'c'.   
 M
 -  
 **main** Function called by the system when starting to execute a C++ program.  
