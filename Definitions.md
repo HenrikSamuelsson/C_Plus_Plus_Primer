@@ -126,6 +126,7 @@ M
 N  
 -  
 **namespace** Defines a named scope. Makes it possible to differentiate classes, variables, functions etc from different libraries that could happen to have the same name.  
+**nonprintable character** A number representing white space characters; space, tab, new line or other special control characters such as for example; escape, delete, bell code.  
 **null pointer** A pointer that currently do not point at anything.  
 O  
 -  
