@@ -141,6 +141,7 @@ P
 **parameter list** Specifies the number of arguments, and corresponding type, to be used when calling a given function.  
 **pointer** An object that holds an address or 0.  
 **pointer to const** A pointer that can be used to point at a const object.  
+**preprocessor** A program that is executed before the compilation. The result of preprocessing is a single file which is then passed to the actual compiler.  
 R  
 -  
 **return type** The type of the value returned by a function, specified in the definition of the function.   
