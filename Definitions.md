@@ -128,6 +128,7 @@ N
 **namespace** Defines a named scope. Makes it possible to differentiate classes, variables, functions etc from different libraries that could happen to have the same name.  
 **nonprintable character** A number representing white space characters; space, tab, new line or other special control characters such as for example; escape, delete, bell code.  
 **null pointer** A pointer that currently do not point at anything.  
+**nullptr** A keyword that denotes the null pointer literal.  
 O  
 -  
 **object** This term has different meanings depending on the context. Will often refer to an instance of a class but can also be used more losely when refering to a variable or just a value of some type in a contingious region of the memory.  
