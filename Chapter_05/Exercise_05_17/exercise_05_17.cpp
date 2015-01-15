@@ -40,6 +40,6 @@ bool isPrefix(vector<int> v1, vector<int> v2) {
         }
     }
     
-     // All elements in the prefix must have been equal if we end up here.
+    // All elements in the prefix must have been equal if we end up here.
     return true;   
 }
