@@ -126,17 +126,23 @@ M
 N  
 -  
 **namespace** Defines a named scope. Makes it possible to differentiate classes, variables, functions etc from different libraries that could happen to have the same name.  
+**nonprintable character** A number representing white space characters; space, tab, new line or other special control characters such as for example; escape, delete, bell code.  
 **null pointer** A pointer that currently do not point at anything.  
+**nullptr** A keyword that denotes the null pointer literal.  
 O  
 -  
 **object** This term has different meanings depending on the context. Will often refer to an instance of a class but can also be used more losely when refering to a variable or just a value of some type in a contingious region of the memory.  
 **ostream** A type in the std library that can be used to write characters sequences or representations of other kinds of data.  
+**outer scope** Refers to a scope that encloses another scope.  
 **output operator** Written as "<<". Left-hand operand shall be a stream that will be written to. The right-hand operand hold the data that will be written.  
 P  
 -  
 **parameter** A variable whitin a function declaration. Indicates what type of data to be used as an argument when the function is called.  
 **parameter list** Specifies the number of arguments, and corresponding type, to be used when calling a given function.  
 **pointer** An object that holds an address or 0.  
+**pointer to const** A pointer that can be used to point at a const object.  
+**preprocessor** A program that is executed before the compilation. The result of preprocessing is a single file which is then passed to the actual compiler.  
+**prepcocessor variable** Variable defined by a preproccesor directive with an identifier and a value. When the preprocessor encounters this directive, it replaces any occurrence of identifier in the rest of the code by replacement to the corresponding value.  
 R  
 -  
 **return type** The type of the value returned by a function, specified in the definition of the function.   
