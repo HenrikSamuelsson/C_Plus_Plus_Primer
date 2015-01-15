@@ -1,8 +1,18 @@
-#include <iostream>
 /**
- * Multiplies two user defined integers.
- * 
- * @return 0 upon succesfuel program execution 
+ * @file
+ *      exercise_01_05.cpp
+ * @author
+ *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
+ * @brief
+ *      Exercise 1.5 from the book C++ Primer (5th edition).
+ */
+#include <iostream>
+
+/**
+ * @brief
+ *      Multiplies two user defined integers.
+ * @return 
+ *      0 upon succesful program execution 
  */
 int main()
 {
