@@ -142,6 +142,7 @@ P
 **pointer** An object that holds an address or 0.  
 **pointer to const** A pointer that can be used to point at a const object.  
 **preprocessor** A program that is executed before the compilation. The result of preprocessing is a single file which is then passed to the actual compiler.  
+**prepcocessor variable** Variable defined by a preproccesor directive with an identifier and a value. When the preprocessor encounters this directive, it replaces any occurrence of identifier in the rest of the code by replacement to the corresponding value.  
 R  
 -  
 **return type** The type of the value returned by a function, specified in the definition of the function.   
