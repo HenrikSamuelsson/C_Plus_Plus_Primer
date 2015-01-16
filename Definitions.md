@@ -174,6 +174,7 @@ T
 **type checking** The process of verifying and enforcing the constraints of types. This is done by the compiler in C++.  
 **type qualifier** Keywords that provide additional information about the variables they precede. The possible type qualifiers in C++ are const, volatile, and restrict.  
 **type specifier** Indicates the type of the object or function being declared. Some common type specifiers are class-specifier, const, and volatile. Note that just the simple name of an object is also included in the set of type specifiers.  
+**typedef** Keyword used for writing a typedef declaration that creates an alias that can be used anywhere in place of a (possibly complex) type name.  
 U
 -  
 **uninitialized variable** Variable that is not given an initial value. Can for example be a variable of one of the built-in types defined inside a function, the values of these variables is undefined, this can cause nasty bugs.  
