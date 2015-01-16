@@ -177,6 +177,7 @@ T
 **typedef** Keyword used for writing a typedef declaration that creates an alias that can be used anywhere in place of a (possibly complex) type name.  
 U
 -  
+**undefined** Describes a situation when it is not known what will happen when the code runs because it is not specified by the C++ specification.   
 **uninitialized variable** Variable that is not given an initial value. Can for example be a variable of one of the built-in types defined inside a function, the values of these variables is undefined, this can cause nasty bugs.  
 **unsigned** A keyword that is used as type specifier for integer types. Indicates that the type only holds values greater than or equal to zero.  
 V  
