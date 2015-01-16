@@ -183,6 +183,7 @@ U
 V  
 -  
 **variable** Named object in a scope.  
+**void pointer** Pointer that can point to any type.  
 W
 -  
 **while statment** Provides a mechanism that allows code to be executed repeatedly.  
