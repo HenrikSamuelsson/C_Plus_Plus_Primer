@@ -22,6 +22,8 @@ B
 **block** Statements gated by curly braces.  
 **block scope** A scope defined by a block gated by curly braces.  
 **buffer** Region used to store data temporarily. Note that streams are often buffered and this may lead to unexpected behavour in some situtations.  
+**buffer overflow** A serious bug where a program, while writing data to a buffer, overruns the buffer's boundary and overwrites adjacent memory.   
+**bug** Colloquial term for error.  
 **built-in type** Type defined by the language itself, common examples are bool, char, int, double.  
 **byte** The smallest unit of memory that can be directly addressed. A byte will usually hold 8 bits of data.  
 C
