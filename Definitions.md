@@ -171,6 +171,7 @@ T
 **top-level const** The const that for example can be used to specify that a pointer is const, as opposed to the low-level const that is used to specify that the object that the pointer points at is const.  
 **trailing return type** Function declaration syntax that ends with an arrow (->) and then finally the return type. Added to the language to support some special template cases but can also be used for more mundane function declarations.  
 **type alias** A type alias is a different name by which a type can be identified. In C++, any valid type can be aliased so that it can be referred to with a different identifier.  
+**type checking** The process of verifying and enforcing the constraints of types. This is done by the compiler in C++.  
 **type qualifier** Keywords that provide additional information about the variables they precede. The possible type qualifiers in C++ are const, volatile, and restrict.  
 U
 -  
