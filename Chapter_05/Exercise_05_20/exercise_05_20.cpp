@@ -40,4 +40,6 @@ int main() {
     } else {
         cout << "There was no word that occurred twice in a row.";
     }
+    
+    return 0;
 }
