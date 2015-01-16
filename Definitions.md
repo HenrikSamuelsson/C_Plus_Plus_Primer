@@ -146,6 +146,7 @@ P
 R  
 -  
 **reference** A reference datatype that is less powerful but safer than the pointer. Can be implemented as a new name for an existing object.  
+**reference to const** A less powerful version of an ordinary reference since it can not change the value of the object to which it refers. Needed to be able to have a reference to a const object.   
 **return type** The type of the value returned by a function, specified in the definition of the function.   
 S  
 -  
