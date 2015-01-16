@@ -59,6 +59,7 @@ D
 **decrement operator** Written as "--". Subtracts 1 from the operand.  
 **default initialazation** Sets objects to default values, if not explicitly initialized. Values are class dependant for class type objects. Built-in types are default initialized to 0 if and only if defined in the global scope.  
 **definition** A declaration that specifies the entity to which the declared name refers. A definition of a variable will include the type of the varibale. Enough memory is then allocated for storing of the variable.  
+**dereference operator** Written as "*". Used for getting the value of an object pointed to by a pointer. Can also be used to assign a value to an object pointed to by a pointer.   
 **dot operator** Written as ".". Used to reference individual members of classes, structures, and unions. The dot operator is applied to the actual object.  
 E  
 - 
