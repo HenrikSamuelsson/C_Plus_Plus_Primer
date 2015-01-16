@@ -145,6 +145,7 @@ P
 **prepcocessor variable** Variable defined by a preproccesor directive with an identifier and a value. When the preprocessor encounters this directive, it replaces any occurrence of identifier in the rest of the code by replacement to the corresponding value.  
 R  
 -  
+**reference** A reference datatype that is less powerful but safer than the pointer. Can be implemented as a new name for an existing object.  
 **return type** The type of the value returned by a function, specified in the definition of the function.   
 S  
 -  
