@@ -5,6 +5,7 @@ A
 -  
 **abstract data type** Model for a certain class of data structures that have similar behavior. An abstract data type is defined only by the operations that may be performed on it.  
 **address** Refers to a memory location.  
+**address of operator** Written as "&". Used for getting the address in the memory of an object.  
 **alias declaration** Setups another name for a type by the aid of the using keyword.  
 **array** Data structure that hold a contiguous sequence of elements which are accessed by an index.  
 **argument** Value passed to a function in the code. Can also be a value passed from the command line to the main function.  
