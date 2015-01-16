@@ -153,6 +153,7 @@ S
 **scope** Names can be used only in certain regions of a program. This area is called the "scope" of the name. Scope determines the "lifetime" of a name.   
 **scope operator**  The scope operator helps to identify and specify the context to which an identifier refers. In C++ the scope operator is written "::".  
 **separate compilation** Support for separation of the source files into different modules that can be compiled one by one and then pieced together into an executable program. This feature simplifies the development phase.  
+**signed** Integer type that can be used for storing both positive and negative values.  
 **source file** File that contains human readable code for a C++ program.  
 **standard error stream** Output used for error reporting. The destination is often shared with cout.  
 **standard input stream** The default source of data for applications. In most systems directed by default to the keyboard.  
