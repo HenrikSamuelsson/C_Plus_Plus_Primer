@@ -173,6 +173,7 @@ T
 **type alias** A type alias is a different name by which a type can be identified. In C++, any valid type can be aliased so that it can be referred to with a different identifier.  
 **type checking** The process of verifying and enforcing the constraints of types. This is done by the compiler in C++.  
 **type qualifier** Keywords that provide additional information about the variables they precede. The possible type qualifiers in C++ are const, volatile, and restrict.  
+**type specifier** Indicates the type of the object or function being declared. Some common type specifiers are class-specifier, const, and volatile. Note that just the simple name of an object is also included in the set of type specifiers.  
 U
 -  
 **uninitialized variable** Variable that is not given an initial value. Can for example be a variable of one of the built-in types defined inside a function, the values of these variables is undefined, this can cause nasty bugs.  
