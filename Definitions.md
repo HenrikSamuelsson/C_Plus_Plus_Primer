@@ -168,6 +168,7 @@ T
 -  
 **temporary** Anonymous object automatically created while evaluating an expression. Exist until the entire expression, that the temporary is part of, have been evaluated.  
 **template** Feature that supports generic types in functions and classes. Allows a function or class to work on many different data types without being rewritten for each one.  
+**top-level const** The const that for example can be used to specify that a pointer is const, as opposed to the low-level const that is used to specify that the object that the pointer points at is const.  
 **trailing return type** Function declaration syntax that ends with an arrow (->) and then finally the return type. Added to the language to support some special template cases but can also be used for more mundane function declarations.  
 **type qualifier** Keywords that provide additional information about the variables they precede. The possible type qualifiers in C++ are const, volatile, and restrict.  
 U
