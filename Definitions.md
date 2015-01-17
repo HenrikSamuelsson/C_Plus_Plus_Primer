@@ -5,6 +5,7 @@ A
 -  
 **abstract data type** Model for a certain class of data structures that have similar behavior. An abstract data type is defined only by the operations that may be performed on it.  
 **address** Refers to a memory location.  
+**address of operator** Written as "&". Used for getting the address in the memory of an object.  
 **alias declaration** Setups another name for a type by the aid of the using keyword.  
 **array** Data structure that hold a contiguous sequence of elements which are accessed by an index.  
 **argument** Value passed to a function in the code. Can also be a value passed from the command line to the main function.  
@@ -21,6 +22,8 @@ B
 **block** Statements gated by curly braces.  
 **block scope** A scope defined by a block gated by curly braces.  
 **buffer** Region used to store data temporarily. Note that streams are often buffered and this may lead to unexpected behavour in some situtations.  
+**buffer overflow** A serious bug where a program, while writing data to a buffer, overruns the buffer's boundary and overwrites adjacent memory.   
+**bug** Colloquial term for error.  
 **built-in type** Type defined by the language itself, common examples are bool, char, int, double.  
 **byte** The smallest unit of memory that can be directly addressed. A byte will usually hold 8 bits of data.  
 C
@@ -58,6 +61,7 @@ D
 **decrement operator** Written as "--". Subtracts 1 from the operand.  
 **default initialazation** Sets objects to default values, if not explicitly initialized. Values are class dependant for class type objects. Built-in types are default initialized to 0 if and only if defined in the global scope.  
 **definition** A declaration that specifies the entity to which the declared name refers. A definition of a variable will include the type of the varibale. Enough memory is then allocated for storing of the variable.  
+**dereference operator** Written as an asterisk placed before a pointer to an object. Used for getting the value of the object pointed to by the pointer. Can also be used to assign a value to the object pointed to by the pointer.  
 **dot operator** Written as ".". Used to reference individual members of classes, structures, and unions. The dot operator is applied to the actual object.  
 E  
 - 
@@ -177,11 +181,13 @@ T
 **typedef** Keyword used for writing a typedef declaration that creates an alias that can be used anywhere in place of a (possibly complex) type name.  
 U
 -  
+**undefined** Describes a situation when it is not known what will happen when the code runs because it is not specified by the C++ specification.   
 **uninitialized variable** Variable that is not given an initial value. Can for example be a variable of one of the built-in types defined inside a function, the values of these variables is undefined, this can cause nasty bugs.  
 **unsigned** A keyword that is used as type specifier for integer types. Indicates that the type only holds values greater than or equal to zero.  
 V  
 -  
 **variable** Named object in a scope.  
+**void pointer** Pointer that can point to any type.  
 W
 -  
 **while statment** Provides a mechanism that allows code to be executed repeatedly.  
