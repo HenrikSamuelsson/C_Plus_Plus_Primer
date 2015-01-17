@@ -9,7 +9,7 @@ begin:
 ```
 ####Answer
 ```cpp
-while(!get_size()) {
-  ; // Dont do anything while size is equal to zero. 
+while(get_size() <= 0) {
+  ; // Dont do anything while size is less than or equal to zero. 
 }
 ```
