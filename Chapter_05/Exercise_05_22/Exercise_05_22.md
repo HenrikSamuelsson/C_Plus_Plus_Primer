@@ -1,5 +1,5 @@
 ####Question
-The example below in that jumpps back to begin can be better written using a loop. Rewrite the code to eliminate the goto.  
+The example below, that jumps back to begin, can be better written using a loop. Rewrite the code to eliminate the goto.  
 ```cpp
 begin:
   int sz = get_size();
