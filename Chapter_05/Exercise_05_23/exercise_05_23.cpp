@@ -18,12 +18,15 @@ using std::endl;
 int main() {
     int dividend, divisor, quotient, remainder;
 
-    cout << "Enter two integers that will be used for divison: ";
+    // Get input from the user.
+    cout << "Enter two integers that will be used for division: ";
     cin >> dividend >> divisor;
     
+    // Do the calculations.
     quotient = dividend / divisor;
     remainder = dividend % divisor;
     
+    // Present the result.
     cout << endl;
     cout << dividend << " divided by " << divisor << " yields:" << endl;
     cout << "\t" <<"quotient = " << quotient << endl;
