@@ -1,10 +1,10 @@
 /**
  * @file
- *      exercise_05_26.cpp
+ *      exercise_06_07.cpp
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 5.26 from the book C++ Primer (5th edition).
+ *      Exercise 6.7 from the book C++ Primer (5th edition).
  * @details
  *     Write a function that returns 0 when it is first called and then
  *     generates numbers is sequence each time it is called again.
