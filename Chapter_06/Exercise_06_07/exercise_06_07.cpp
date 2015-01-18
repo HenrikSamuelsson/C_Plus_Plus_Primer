@@ -11,8 +11,6 @@
  */
 #include <iostream>
 
-using std::cout;
-
 int counter();
 
 /**
@@ -25,9 +23,8 @@ int counter();
  */
 int main() {
     for(int i = 0; i < 10; ++i) {
-        cout << counter() << " ";
+        std::cout << counter() << " ";
     }
-    
     return 0;   
 }
 
@@ -39,6 +36,5 @@ int main() {
  */
 int counter() {
     static int cnt = -1;
-    
     return ++cnt;
 }
