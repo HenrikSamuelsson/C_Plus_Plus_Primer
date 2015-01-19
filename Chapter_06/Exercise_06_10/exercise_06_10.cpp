@@ -15,17 +15,17 @@ using std::cout;
 using std::endl;
 
 int swap(int *i, int *j);
-int print_data(const int *i, const int *j);
+int print_data(const int i, const int j);
 
 int main() {
     int a = 5;
     int b = 10;
     
     cout << "Before swap:" << endl;
-    print_data(&a, &b);
+    print_data(a, b);
     swap(&a, &b);
     cout << "After swap:" << endl;
-    print_data(&a, &b);
+    print_data(a, b);
 }
 
 int swap(int *i, int *j) {
@@ -34,7 +34,7 @@ int swap(int *i, int *j) {
     *j = t;
 }
 
-int print_data(const int *i, const int *j) {
-    cout << "\t" << "first int = " << *i << endl;
-    cout << "\t" << "second int = " << *j << endl;
+int print_data(const int i, const int j) {
+    cout << "\t" << "first int = " << i << endl;
+    cout << "\t" << "second int = " << j << endl;
 }
