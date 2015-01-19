@@ -8,7 +8,7 @@ void circle_calc(double r, double &area, double &circumference) {
     circumference = 2 * 3.141592653589793238463 * r;
 }
 ```
-Dont use reference parameters for functions that shall return a single value and all parameters are of built-in types. Since tho code will most likely run slower, because references are typically implemented using pointers, and dereferencing a pointer is slower than accessing it directly. It would also be confusing for others reading the code because it looks like the function will alter its arguments.  
+Dont use reference parameters for functions that shall return a single value and all parameters are of built-in types. The code would most likely run slower, because references are typically implemented using pointers, and dereferencing a pointer is slower than accessing it directly. It would also be confusing for others reading the code because it looks like the function might alter its arguments.  
 
 Below is a typical example when parameters should not be references.
 ```cpp
