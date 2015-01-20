@@ -7,4 +7,4 @@ The char parameter is not a reference because it would not be possible to call t
 
 It would be possible to make s a plain reference and still be able to compile the code. It is however, as stated above, better to declare it const since s is not suposed to be altered by find_char.  
 
-The parameter occurs can not be a reference to const since its value is altered inside the body of find_char. The
+The parameter occurs can not be a reference to const since its value is altered inside the body of find_char. The program would not compile if 
