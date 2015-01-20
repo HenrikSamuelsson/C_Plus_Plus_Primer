@@ -22,7 +22,7 @@ The function to_lowercase will change its argument s, so it can not be declared 
 
 The function contains_capital_letter will on the other hand only read the content of its argument, so it can be declared const. This is good because it makes it possible to use the function for both plain strings and constant strings. We can for example do the following, which would not be possible without having a const-qualified parameter.  
 ```cpp
-if (contins_capital_letter("Hello World!")) {
+if (contains_capital_letter("Hello World!")) {
     /* ... */
 }
 ```
