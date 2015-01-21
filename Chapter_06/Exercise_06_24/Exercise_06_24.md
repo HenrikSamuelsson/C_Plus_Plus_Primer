@@ -10,6 +10,6 @@ void print(const int ia[10])
 ####Answer
 There is not really anything wrong with this code, it will compile and we can print arrays that have exactly ten elements with it.  
 
-Trying to printing shorter arrays with this function will however not work well. It would print the values in the array and then happily continue to print wathever found in the next sequential memory locations. Printing longer arrrays would not work since only the 10 first elements would be printed.  
+Trying to printing shorter arrays with this function will however not work well. It would print the values in the array and then happily continue to print wathever found in the next sequential memory locations. Printing longer arrays would not work since only the 10 first elements in the array would be printed.  
 
 A more versatile function would take an additional parameter that holds the size of the array and then take this value into account when printing.  
