@@ -20,7 +20,7 @@ int main(int argc, char *argv[]) {
     string in_data;
     
     // Check that we get the expected number of arguments which shall be the 
-    // nome of the program and then two user defined arguments.
+    // name of the program and then two user defined arguments.
     if(argc != 1 + 2) {
         cout << "ERROR: This program shall be given exactly two arguments.";
         return 1;   // Quit because of inccorect in data.
