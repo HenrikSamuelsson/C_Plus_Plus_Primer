@@ -1,10 +1,10 @@
 /**
  * @file
- *      exercise_06_26.cpp
+ *      exercise_06_27.cpp
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 6.26 from the book C++ Primer (5th edition).
+ *      Exercise 6.27 from the book C++ Primer (5th edition).
  * @details
  *      Write a program that accepts the options presented in this section. 
  *      Print the values of the arguments passed to main.
