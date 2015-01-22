@@ -15,7 +15,6 @@
 using std::cout;
 using std::string;
 
-
 int main(int argc, char *argv[]) {
     string in_data;
     
