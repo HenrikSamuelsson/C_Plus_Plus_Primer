@@ -13,3 +13,5 @@ ISBN-13: 978-0321714114
 ISBN-10: 0321714113   
 
 Read more about the book at [Google Books] (http://books.google.se/books?id=J1HMLyxqJfgC&printsec=frontcover&dq=c%2B%2B+primer&hl=en&sa=X&ei=b8JMVK3ZKMaxygPc7IDwCw&redir_esc=y#v=onepage&q=c%2B%2B%20primer&f=false).
+
+[Min GW](http://www.mingw.org/) with [GCC](https://gcc.gnu.org/) version 4.8.1-4 was used for compiling on a PC running Windows 7.  
