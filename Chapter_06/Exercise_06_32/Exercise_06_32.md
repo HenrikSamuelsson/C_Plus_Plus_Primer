@@ -17,7 +17,7 @@ int main() {
 ####Answer  
 This is legal code.  
 
-The for loop will iterate i from 0 to 9. An assignment will take place on each iteration but not until the function get have executed because the call operator have higher precedence than the assignment operator. This means tha there will be 10 sequential assignments like this:
+The for loop will iterate i from 0 to 9. An assignment will take place on each iteration but not until the function get have executed because the call operator have higher precedence than the assignment operator. This means that there will be 10 sequential assignments like this:
 ```
 ia[0] = 0;
 ia[1] = 1;
