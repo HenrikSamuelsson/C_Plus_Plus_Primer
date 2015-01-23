@@ -9,4 +9,7 @@ void error_msg(ErrCode e, initializer_list<string> il) {
 }
 ```
 ####Answer
-The type of elem will be const string reference.  
+The type of elem will be constant string reference i.e. 
+```cpp
+const std::string&  
+```
