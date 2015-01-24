@@ -17,3 +17,5 @@ Version based on decltype:
 string a[10];
 decltype(a) &f3();
 ```
+
+I prefer trailing return type because all the information about the declaration is collected on a single line.  
