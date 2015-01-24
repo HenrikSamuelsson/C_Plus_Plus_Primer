@@ -8,4 +8,4 @@ This solution works equally well.
 
 Note however that recursion would never terminate if called with a negative integer and eventually cause a stack overflow.
 
-But there exists no factorial for negative integers anyway, so this is not really an problem. If this was real production code so should this function be able to handle calls with negative input by for example throwing an exception.
+But there exists no factorial for negative integers anyway, so this is not really an problem. If this was real production code so should this function be written to be able to handle illegal calls with negative input, by for example throwing an exception.
