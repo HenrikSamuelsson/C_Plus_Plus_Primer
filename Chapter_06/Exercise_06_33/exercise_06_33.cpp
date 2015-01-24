@@ -17,7 +17,7 @@ using std::size_t;
 using std::string;
 using std::vector;
 
-int print_vector_content(const vector<string> &vec, size_t size);
+void print_vector_content(const vector<string> &vec, size_t size);
 
 int main() {
     const vector<string> b_stroustrup_quote = { "C", "makes", "it", "easy",
@@ -30,7 +30,7 @@ int main() {
     return 0;
 }
 
-int print_vector_content(const vector<string> &vec, size_t size) {
+void print_vector_content(const vector<string> &vec, size_t size) {
     if(--size)
         print_vector_content(vec, size);
     cout << vec[size] << " ";
