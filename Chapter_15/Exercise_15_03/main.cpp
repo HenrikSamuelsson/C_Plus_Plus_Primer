@@ -6,8 +6,8 @@
  * @brief
  *      Test program for exercise 15.3 from the book C++ Primer (5th edition).
  * @details
- *      Creates an object and then uses this object to calculate the price of 
- *      100 copies of the book.
+ *      Creates an object that represents a book and then uses this object to 
+ *      calculate the price for 100 copies of the book.
  */
 #include<iostream>
 #include"Quote.h"
