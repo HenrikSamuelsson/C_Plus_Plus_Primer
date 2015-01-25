@@ -17,4 +17,3 @@ int main() {
     std::cout << "The price for 100 C++ Primer is $" << q.net_price(100);
     return 0;
 }
-
