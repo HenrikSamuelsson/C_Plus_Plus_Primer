@@ -103,6 +103,7 @@ I
 **incomplete type** Type that at a given time have been declared but lacks a definiton.  
 **increment operator** Written as "++". Adds 1 to the operand.  
 **inequality operator** Written as "!=". Takes two operands, evaluates to false if both operands are equal, and false if this is not the case.  
+**inheritance** Basing a new object or a class on an existing object or class. A mechanism for code reuse that at the same time allows extensions of the original classes if needed.  
 **initialization** Giving an object an initial value at the time of definition.  
 **inline function** A function qualified with the keyword inline. Suggests to the compiler that it should substitute the function call with the body of the function inline. This saves on the overhead caused by function calls but requires more memory to store the code.  
 **inner scope** A scope nested inside of another scope.  
