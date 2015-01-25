@@ -15,6 +15,7 @@ A
 **auto** Keyword indicating that a variables type shall be automatically deduced from its initializer. Primarily useful in generic programming.  
 B  
 -  
+**base class** The parent class of a derived class. Classes may be used to create other classes. A class that is used to create another new class is called the base class.  
 **base type** Type specifier that precedes the declarators in a declaration. Take for example a reference declaration to an int "int &r = i;". The base type is an int in this example and then follows a reference declarator.  
 **begin** Member of string and vector that returns an iterator pointing to the first element in the sequence. May also refer to the related library function that takes a pointer to an array and returns the first element in the array.  
 **bind** Coupling of a new additional name to a given entity.  
