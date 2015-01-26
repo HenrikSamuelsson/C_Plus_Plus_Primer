@@ -15,6 +15,7 @@ A
 **auto** Keyword indicating that a variables type shall be automatically deduced from its initializer. Primarily useful in generic programming.  
 B  
 -  
+**base class** The parent class of a derived class. Classes may be used to create other classes. A class that is used to create another new class is called the base class.  
 **base type** Type specifier that precedes the declarators in a declaration. Take for example a reference declaration to an int "int &r = i;". The base type is an int in this example and then follows a reference declarator.  
 **begin** Member of string and vector that returns an iterator pointing to the first element in the sequence. May also refer to the related library function that takes a pointer to an array and returns the first element in the array.  
 **bind** Coupling of a new additional name to a given entity.  
@@ -34,6 +35,7 @@ C
 **character string literal** Term sometimes used as synonym for string literal.  
 **cin** Object of class type istream, used for reading data, in form of characters, from the standard input.  
 **class** Fundamental feature used for creation of user defined types.  
+**class derivation list** A list that holds information about what base classes a certain class is derived from.  
 **class member** Part of a class. Can either be data or function declarations.  
 **class type** Defined using class specifiers. The definiton starts with the class, struct or union keyword, other parts are the class name and class member declarations.  
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
@@ -62,6 +64,7 @@ D
 **default initialazation** Sets objects to default values, if not explicitly initialized. Values are class dependant for class type objects. Built-in types are default initialized to 0 if and only if defined in the global scope.  
 **definition** A declaration that specifies the entity to which the declared name refers. A definition of a variable will include the type of the varibale. Enough memory is then allocated for storing of the variable.  
 **dereference operator** Written as an asterisk placed before a pointer to an object. Used for getting the value of the object pointed to by the pointer. Can also be used to assign a value to the object pointed to by the pointer.  
+**derived class** Class that inherits from another class. The derived class can, in C++, be made to have altered behavior by ovveride of the virtuals of its base. New functionality can be added by define of new members.  
 **dot operator** Written as ".". Used to reference individual members of classes, structures, and unions. The dot operator is applied to the actual object.  
 E  
 - 
@@ -103,6 +106,7 @@ I
 **incomplete type** Type that at a given time have been declared but lacks a definiton.  
 **increment operator** Written as "++". Adds 1 to the operand.  
 **inequality operator** Written as "!=". Takes two operands, evaluates to false if both operands are equal, and false if this is not the case.  
+**inheritance** Basing a new object or a class on an existing object or class. A mechanism for code reuse that at the same time allows extensions of the original classes if needed.  
 **initialization** Giving an object an initial value at the time of definition.  
 **inline function** A function qualified with the keyword inline. Suggests to the compiler that it should substitute the function call with the body of the function inline. This saves on the overhead caused by function calls but requires more memory to store the code.  
 **inner scope** A scope nested inside of another scope.  
@@ -136,6 +140,7 @@ N
 O  
 -  
 **object** This term has different meanings depending on the context. Will often refer to an instance of a class but can also be used more losely when refering to a variable or just a value of some type in a contingious region of the memory.  
+**object-oriented programming** Programming language model organized around objects rather than actions and data rather than logic.  
 **ostream** A type in the std library that can be used to write characters sequences or representations of other kinds of data.  
 **outer scope** Refers to a scope that encloses another scope.  
 **output operator** Written as "<<". Left-hand operand shall be a stream that will be written to. The right-hand operand hold the data that will be written.  
