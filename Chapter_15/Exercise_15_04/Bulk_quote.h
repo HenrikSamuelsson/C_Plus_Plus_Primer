@@ -9,7 +9,7 @@
  *      Define your own version of the Bulk_quote class.
  */
 #ifndef BULK_QUOTE_H
-#define BULK_QOUTE_H
+#define BULK_QUOTE_H
 
 #include <string>
 #include "Quote.h"
