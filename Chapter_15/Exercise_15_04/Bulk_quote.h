@@ -17,8 +17,8 @@
 class Bulk_quote : public Quote {
 public:
     Bulk_quote() = default;
-    Bulk_quote(const std::string& isbn, double p, 
-            std::size_t q, double d) : Quote(isbn, p), mint_qty(q), discount(d);
+    Bulk_quote(const std::string& isbn, double p, std::size_t q, double d) : 
+        Quote(isbn, p), min_qty(q), discount(d) { }
     
     double net_price(std::size_t n) const override;
 private:
