@@ -8,8 +8,8 @@
  * @details
  *      Define your own version of the Bulk_quote class.
  */
-#ifndef QUOTE_H
-#define QOUTE_H
+#ifndef BULK_QUOTE_H
+#define BULK_QOUTE_H
 
 #include <string>
 #include "Quote.h"
