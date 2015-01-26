@@ -1,6 +1,6 @@
 /**
  * @file
- *      Bulk_qoute.cpp
+ *      Bulk_quote.cpp
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
