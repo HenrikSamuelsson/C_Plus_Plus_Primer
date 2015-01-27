@@ -10,11 +10,9 @@
  *      objects to that function.  
  */
 #include <iostream>
-//#include "Quote.h"
 #include "Bulk_quote.h"
 
 int main() {
-    Quote q("0321714113", 39.95);
     Bulk_quote bq("0321714113", 39.95, 20, 0.10);
     std::cout << "The price for per copy of C++ Primer is $" 
             << bq.net_price(100)/100 << " when buying 100 copise."<< std::endl;
