@@ -4,7 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Part of exercise 15.5 from the book C++ Primer (5th edition).
+ *      Part of exercise 15.6 from the book C++ Primer (5th edition).
  */
 #include "Bulk_quote.h"
 
