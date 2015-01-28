@@ -9,7 +9,7 @@
  *      Define your own version of the Quote class and the print_total function.
  */
 #ifndef QUOTE_H
-#define QOUTE_H
+#define QUOTE_H
 
 #include <string>
 
