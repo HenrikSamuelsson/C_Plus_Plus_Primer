@@ -4,9 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 15.3 from the book C++ Primer (5th edition).
- * @details
- *      Define your own version of the Quote class and the print_total function.
+ *      Part of exercise 15.6 from the book C++ Primer (5th edition).
  */
 #ifndef QUOTE_H
 #define QUOTE_H
