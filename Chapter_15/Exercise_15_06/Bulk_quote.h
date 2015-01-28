@@ -4,9 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Part of exercise 15.5 from the book C++ Primer (5th edition).
- * @details
- *      Define your own version of the Bulk_quote class.
+ *      Part of exercise 15.6 from the book C++ Primer (5th edition).
  */
 #ifndef BULK_QUOTE_H
 #define BULK_QUOTE_H
