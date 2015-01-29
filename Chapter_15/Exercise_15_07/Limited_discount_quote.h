@@ -1,6 +1,6 @@
 /**
  * @file
- *      Limited_discaunt_quote.h
+ *      Limited_discount_quote.h
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
