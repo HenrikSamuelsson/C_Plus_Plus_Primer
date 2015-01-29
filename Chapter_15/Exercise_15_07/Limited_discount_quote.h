@@ -6,8 +6,8 @@
  * @brief
  *      Part of exercise 15.7 from the book C++ Primer (5th edition).
  */
-#ifndef BULK_QUOTE_H
-#define BULK_QUOTE_H
+#ifndef LIMITED_DISCOUNT_QUOTE_H
+#define LIMITED_DISCOUNT_QUOTE_H
 
 #include <string>
 #include "Quote.h"
