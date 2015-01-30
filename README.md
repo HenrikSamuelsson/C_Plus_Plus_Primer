@@ -1,5 +1,5 @@
-C_Plus_Plus_Primer_Solutions
-============================
+C++ Primer Solutions
+====================
 
 Solutions to exercises done while reading the book "C++ Primer".  
 
