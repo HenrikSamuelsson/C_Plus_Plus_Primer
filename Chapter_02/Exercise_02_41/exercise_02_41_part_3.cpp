@@ -23,6 +23,7 @@ int main() {
     // First read is a special case because we do not know the ISBN yet.
     std::cin >> sd_total.isbn >> sd_total.units_sold >> sd_total.revenue;
     
+    // Read more transactions and update the total.
     while(std::cin >> sd_temp.isbn >> sd_temp.units_sold >> sd_temp.revenue) {
         if(sd_total.isbn == sd_temp.isbn) {
             sd_total.units_sold += sd_temp.units_sold;
@@ -33,6 +34,7 @@ int main() {
         }
     }
     
+    // Present the result.
     std::cout << "ISBN: " << sd_total.isbn  << std::endl;
     std::cout << "Total sold: " << sd_total.units_sold  << std::endl;
     std::cout << "Total revenue: " << sd_total.revenue  << std::endl;
