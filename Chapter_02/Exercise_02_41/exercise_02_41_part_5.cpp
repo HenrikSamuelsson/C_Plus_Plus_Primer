@@ -7,7 +7,7 @@
  *      Part five of exercise 2.41 from the book C++ Primer (5th edition).
  * @details
  *      The book store program from section 1.6 but using the Sales_data class
- *      instead of the Sales_item.h
+ *      instead of the Sales_item.h include file.
  */
 #include <iostream>
 
