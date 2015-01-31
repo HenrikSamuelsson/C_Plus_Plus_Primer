@@ -36,7 +36,6 @@ int main() {
             // Start over counting units sold of the new ISBN.
             sd_total.isbn = sd_temp.isbn;
             sd_total.units_sold = sd_temp.units_sold;
-            
         }
     }
     

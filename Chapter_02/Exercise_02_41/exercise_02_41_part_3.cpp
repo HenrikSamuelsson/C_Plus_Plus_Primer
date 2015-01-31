@@ -35,7 +35,7 @@ int main() {
     }
     
     // Present the result.
-    std::cout << "ISBN: " << sd_total.isbn  << std::endl;
+    std::cout << "ISBN: " << sd_total.isbn << std::endl;
     std::cout << "Total sold: " << sd_total.units_sold  << std::endl;
     std::cout << "Total revenue: " << sd_total.revenue  << std::endl;
             
