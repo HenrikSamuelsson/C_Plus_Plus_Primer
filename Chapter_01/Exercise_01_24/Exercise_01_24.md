@@ -12,6 +12,6 @@ Book with isbn 1 occurred in 3 transactions.
 ^Z
 Book with isbn 2 occurred in 2 transactions.
 ```
-The program kind of works but the input and output is mixed together in a confusing way. This could be improved but requires using of techniques presented later on in the book.  
+The program kind of works but the input and output is mixed together in a confusing way. This could be improved by using techniques presented later on in the book.  
 
 (The ^Z shows up in the console when CTRL+Z is entered by the user to indicate end-of-file.)  
