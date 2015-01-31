@@ -4,7 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *       Part one of exercise 2.41 from the book C++ Primer (5th edition).
+ *      Part one of exercise 2.41 from the book C++ Primer (5th edition).
  * @details
  *      A program that reads a set of book sales transactions, writing each
  *      transaction to the standard output.
