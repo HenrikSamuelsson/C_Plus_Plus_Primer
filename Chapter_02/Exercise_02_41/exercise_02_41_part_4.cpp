@@ -7,7 +7,9 @@
  *      Part four of exercise 2.41 from the book C++ Primer (5th edition).
  * @details
  *      A program that reads several transactions for the same ISBN and counts
- *      how many transactions occur for each ISBN.
+ *      how many transactions occur for this ISBN. Will present the result when
+ *      a new ISBN is entered and then also start to count transactions for 
+ *      this new ISBN. 
  */
 #include <iostream>
 #include <string>
