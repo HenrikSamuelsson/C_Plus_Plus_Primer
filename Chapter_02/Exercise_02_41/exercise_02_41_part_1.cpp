@@ -10,6 +10,7 @@
  *      transaction to the standard output.
  */
 #include <iostream>
+#include <string>
 
 struct Sales_data {
   std::string isbn;
