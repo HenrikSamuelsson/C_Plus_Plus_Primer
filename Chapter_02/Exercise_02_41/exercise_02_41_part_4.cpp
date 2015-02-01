@@ -10,6 +10,7 @@
  *      how many transactions occur for each ISBN.
  */
 #include <iostream>
+#include <string>
 
 struct Sales_data {
   std::string isbn;
