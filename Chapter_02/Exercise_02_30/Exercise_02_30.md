@@ -12,5 +12,5 @@ Will separate each declaration on to its own line to make the following discussi
 `int *p1 = &v1;       // not const at all`  
 `int &r1 = v1;        // not const at all`  
 `const int *p2 = &v2  // const is low level, we can change p2`  
-`const int *const p3 = &i;  // right most const is top-level, left most is low-level`
+`const int *const p3 = &i;  // right most const is top-level, left most is low-level`  
 `const int &r2 = v2;  // const in reference types is always low level`
