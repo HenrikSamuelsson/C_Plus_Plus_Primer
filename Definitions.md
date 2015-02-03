@@ -39,6 +39,7 @@ C
 **class** Fundamental feature used for creation of user defined types.  
 **class derivation list** A list that holds information about what base classes a certain class is derived from.  
 **class member** Part of a class. Can either be data or function declarations.  
+**class template** An abstract blueprint from which specific class types can be constructed. Defines the behavior of the class without actually knowing what datatype will be handled by the class. Exact type is decided when the class shall be used by providing additional information.  
 **class type** Defined using class specifiers. The definiton starts with the class, struct or union keyword, other parts are the class name and class member declarations.  
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 **comment** Code that is ignored by the compiler. Written for the developers by the developers to document and clarify the code.  
