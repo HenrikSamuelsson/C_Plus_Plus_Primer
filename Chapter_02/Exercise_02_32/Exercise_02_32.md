@@ -14,7 +14,7 @@ The intent of the above code is a bit more clear if the special nullptr literal 
 ```cpp
 int *p = nullptr;
 ```
-Write like this instead if the int variable, named null, is needed elsewhere in the code:
+It can be so that the int variable named null is used elsewhere in the code and we will then have to keep it around:
 ```cpp
 int null = 0;
 int *p = nullptr;
