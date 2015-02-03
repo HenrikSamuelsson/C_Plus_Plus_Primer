@@ -10,7 +10,7 @@ One way to get a working code would be to git rid of the null variable and just 
 ```cpp
 int *p = 0;
 ```
-The intent of the above code is a bit more clear if the specila nullptr literal is used instead:  
+The intent of the above code is a bit more clear if the special nullptr literal is used instead:  
 ```cpp
 int *p = nullptr;
 ```
