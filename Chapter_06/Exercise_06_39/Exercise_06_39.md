@@ -28,5 +28,5 @@ get();
 ```
 so is there no way for the compiler to know which version we intend to use.  
 
-(c)
+(c)  
 This is a legal way to overload a function called reset.
