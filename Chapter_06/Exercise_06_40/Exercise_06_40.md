@@ -8,4 +8,4 @@ Are the following declarations legal, if not why?
 (b) Not legal, all parameters following an parameter with a default argument must also have default arguments. This problem can easily be fixed by reordering the parameters:
 ```cpp
 char *init(int wd, char bckgrnd, int ht = 24);
-`
+```
