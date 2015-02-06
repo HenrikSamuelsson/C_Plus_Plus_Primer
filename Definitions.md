@@ -44,7 +44,7 @@ C
 **clog** Standard output stream for logging. Can for example report events in the program execution to a log file.  
 **comment** Code that is ignored by the compiler. Written for the developers by the developers to document and clarify the code.  
 **compiler** A computer program that transforms source code written in a programming language, such as for example C++, into another computer language that will often have a binary form known as object code. The most common reason for using a compiler is to transform source code into an executable program.  
-**compiler extension** Extensions to the C++ language provided by the specific compiler used to build the program. Can be helpful but will prevent changing compiler without rewrite of the code base.  
+**compiler extension** Extensions to the C++ language provided by the specific compiler used to build the program. Can be helpful but causes problems if it is decided that the development environment shall be changed at a later point in time.  
 **compound assignment operator** Written as "+=". Will add the right-hand operand to the left-hand operand and store the result in the left-hand operand.  
 **compound type** Type that is constructed from fundamental types. Can be array, function, object pointer, function pointer, member object pointer, member function pointer, reference, class, union, or enumeration, including any cv-qualified variants.   
 **container** A holder object that stores a collection of other objects.   
