@@ -29,8 +29,8 @@ B
 **byte** The smallest unit of memory that can be directly addressed. A byte will usually hold 8 bits of data.  
 C
 -  
-**C** A programming language designed by Dennis Ritchie between 1969 and 1973. C++ is based on C and maintains a high degree of compatibility with C.
-**c-style string** Null-terminated character array. Included in the c++ language mostly for backwards compatibility with c. 
+**C** A programming language designed by Dennis Ritchie between 1969 and 1973. C++ is based on C and maintains a high degree of compatibility with C.  
+**c-style string** Null-terminated character array. Included in the c++ language mostly for backwards compatibility with c.  
 **call operator** Written as "()". Executes a function.  
 **capture list** Part of a lambda expression that specifies if and how one or more variables can be used by the lambda.  
 **cerr** Standard output stream for errors. Will often have the same destination as cout.  
