@@ -19,6 +19,6 @@ init(14, '*');
 #####Answer  
 (a) Illegal, there is no default argument set for the ht parameter so a value must be provided.  
 
-(b) Legal, ht = 24, wd = 10, and bckgrnd = ' ' set by the dfault argument.  
+(b) Legal, ht = 24, wd = 10, and bckgrnd = ' ' (set by the default argument).  
 
-(c) Legal, ht = 14, wd = 42, bckgrnd = ' ', wd ges the value 42 on my system because the character * will be converted to an int using the ASCII table and then assigned to wd. This function call will work but it is likely that there has been a mixup and the * was intended to be used to set bckrgnd.  
+(c) Legal, ht = 14, wd = 42, bckgrnd = ' ', wd ges the value 42 on my system because the character * will be converted to an int using the [ASCII table](http://www.asciitable.com/) and then assigned to wd. This function call will work but it is likely that there has been a mixup and the * was intended to be used to set bckrgnd.  
