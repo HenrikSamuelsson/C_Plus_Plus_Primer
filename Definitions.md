@@ -200,4 +200,7 @@ V
 W
 -  
 **while statment** Provides a mechanism that allows code to be executed repeatedly.  
-**word** The natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.
+**word** The natural unit of data used by a particular processor design. The word size is the preferred size for moving units of information around. The size of a word is often mesarued in bits.  
+Z  
+-  
+**zero-overhead principle** A C++ language design goal. Language features shall be designed in as an efficient way as possible. Ohterwise so will someone handwrite code, that is slightly faster, and many will follow and use this alternative.  
