@@ -13,7 +13,6 @@ using std::cerr;
 using std::cin;
 using std::cout;
 
-
 int main() {
     Sales_data total;
     if(cin >> total.isbn >> total.units_sold >> total.revenue) {
