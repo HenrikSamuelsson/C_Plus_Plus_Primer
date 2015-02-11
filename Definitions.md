@@ -50,6 +50,7 @@ C
 **container** A holder object that stores a collection of other objects.   
 **condition** Expression that will be evaluted during program execution to either true or false.  
 **const** Type qualifier used to specify that the object or variable is not modifiable.  
+**const member function** A member function declared with the const keyword after the parameter list. This specifies that the function is read-only and will not modify the object for which it is called. One exception is that static data members can be modified.   
 **const pointer** Pointer that points to a const object. Is also sometimes used to describe pointers that hold a constant memory address.   
 **const reference** Colloquial synonym for reference to const.  
 **constant expression** An expression that can be evaluated at compile time.  
