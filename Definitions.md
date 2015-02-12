@@ -89,6 +89,7 @@ F
 **function** Named sequence of statements that can be invoked with given arguments and might return a value.  
 **function body** Block of code that defines a given function.  
 **function name** Name that is used to identify and call a given function.  
+**function template** A blueprint or formula for creating a generic a function. The template keyword is used when defininig a function template.  
 **functor** Class that acts like a function by overloading the function call operator.  
 G  
 -  
