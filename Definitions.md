@@ -22,7 +22,7 @@ B
 **bit** The basic unit of information in computing. A bit can have only one of two values, commonly represented as 0 and 1.  
 **block** Statements gated by curly braces.  
 **block scope** A scope defined by a block gated by curly braces.  
-**bracket** A tall punctuation mark that is a common part of the C++ syntax. Comes in several different types such as "[], (), {}, <>".  
+**bracket** Tall punctuation mark that is a common part of the C++ syntax. Comes in several different types such as "[], (), {}, <>".  
 **buffer** Region used to store data temporarily. Note that streams are often buffered and this may lead to unexpected behavour in some situtations.  
 **buffer overflow** A serious bug where a program, while writing data to a buffer, overruns the buffer's boundary and overwrites adjacent memory.   
 **bug** Colloquial term for error.  
