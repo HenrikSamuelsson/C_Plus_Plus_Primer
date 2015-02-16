@@ -1,6 +1,6 @@
 /**
  * @file
- *      Sales_data.h
+ *      Sales_data.cpp
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
