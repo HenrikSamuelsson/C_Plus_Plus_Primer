@@ -24,7 +24,7 @@ int main() {
                 cout << "ISBN:" << total.getIsbn() << " sold " << total.units_sold 
                 << " units and the revenue was $" << total.revenue << ".";
                 total.isbn = trans.getIsbn();
-                 total.units_sold = trans.units_sold;
+                total.units_sold = trans.units_sold;
                 total.revenue = trans.revenue;
             }
         }
