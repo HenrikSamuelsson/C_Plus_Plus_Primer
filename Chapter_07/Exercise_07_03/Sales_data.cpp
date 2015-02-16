@@ -4,11 +4,7 @@
  * @author
  *      Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  * @brief
- *      Exercise 7.2 from the book C++ Primer (5th edition).
- * @details
- *      Exercise instructions: Add the combine and isbn members to the 
- *      Sales_data class you wrote for the exercises in paragraph 2.6.2
- *      (page 76).
+ *      Part of exercise 7.3 from the book C++ Primer (5th edition).
  */
 #include "Sales_data.h"
 
