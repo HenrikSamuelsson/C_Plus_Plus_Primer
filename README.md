@@ -1,5 +1,5 @@
-C++ Primer Solutions
-====================
+C++ Primer
+==========
 
 Solutions to exercises done while reading the book "C++ Primer".  
 
