@@ -16,7 +16,7 @@ bitset<8> bv(bstr);
 ```
 #####Answer
 (a)  
-Decimal 32 corresponds to the binary 10 0000. So the bitset will contain this plus a bunch of zeroes to fill up a total of 64 bits:  
+Decimal 32 corresponds to the binary 10 0000, so the bitset will contain this plus a bunch of zeroes to fill up to a total of 64 bits:  
 ```cpp
 0000000000000000000000000000000000000000000000000000000000100000
 ```
@@ -30,4 +30,4 @@ This example will use input from a user to setup a bitset called bv. The user mu
 
 The high order bits will be set to zero if the user enters less than 8 characters. A user input of 1111 will for example set bv to 00001111.  
 
-Should the user enter more than eight characters so will these extra characters be dscarded. A user input of 10011000111 will for example set bv to 10011000.
+Should the user enter more than eight characters so will these extra characters be discarded. A user input of 10011000111 will for example set bv to 10011000.
