@@ -28,6 +28,6 @@ Note that the number 1010101 is a decimal number that corresponds to the binary 
 (c)  
 This example will use input from a user to setup a bitset called bv. The user must enter a consecutive number of characters where only 1 or 0 are valid input.  
 
-The high order bits will be set to zero if the user enters less than 8 characters. A user input of 1111 will for example be stored as 00001111 in bv.  
+The high order bits will be set to zero if the user enters less than 8 characters. A user input of 1111 will for example set bv to 00001111.  
 
 Should the user enter more than eight characters so will these extra characters be dscarded. A user input of 10011000111 will for example set bv to 10011000.
