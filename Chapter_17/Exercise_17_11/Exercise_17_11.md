@@ -5,7 +5,7 @@ A bitset can be used for this. Each bit will represent the answer to a question.
 
 A constant int can be used to set the size of the bitset so that it is easy to adapt the code if the number of questions changes.  
 
-The elements above are related so it is natural to build a structure in the form of class that will hold both the elements.
+The elements above are related so it is natural to build a structure in the form of class that will hold both elements.
 ```cpp
 class QuizData {
 public:
