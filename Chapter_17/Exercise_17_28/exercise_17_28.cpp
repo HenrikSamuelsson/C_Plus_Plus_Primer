@@ -7,7 +7,6 @@
  *      Exercise 17.28 from the book C++ Primer (5th edition).
  */
 #include <iostream>
-#include <ctime>
 #include <random>
 
 unsigned uniformly_dist_rand();
