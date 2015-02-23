@@ -10,7 +10,7 @@
 #include <ctime>
 #include <random>
 
-int uniformly_dist_rand();
+unsigned uniformly_dist_rand();
 
 int main() {
     for (int i=0; i<10; ++i) {
@@ -19,7 +19,8 @@ int main() {
     return 0;
 }
 
-int uniformly_dist_rand() {
-    static std::default_random_engine e(time(0));
-    return e();
+unsigned uniformly_dist_rand() {
+    static std::default_random_engine e;
+    static std::uniform_int_distribution<unsigned> ud;
+    return ud(e);
 }
