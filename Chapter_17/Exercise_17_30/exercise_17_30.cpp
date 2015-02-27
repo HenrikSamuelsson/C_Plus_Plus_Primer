@@ -18,6 +18,7 @@ int main() {
     for (int i=0; i<10; ++i) {
         std::cout << uniformly_dist_rand(minimum, maximum) << std::endl;
     }
+    
     return 0;
 }
 
