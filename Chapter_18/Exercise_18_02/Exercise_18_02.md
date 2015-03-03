@@ -9,4 +9,4 @@ void exercise(int *b, int *e) {
 }
 ```
 ## Answer  
-The destructors for v and in wil be run during the stack unwinding but p will not be deleted so this will cause a memory leak.  
+The destructors for v and in will be run during the stack unwinding but p will not be deleted so this would cause a memory leak.  
