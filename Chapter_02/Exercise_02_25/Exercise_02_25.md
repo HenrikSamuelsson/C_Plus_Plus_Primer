@@ -24,7 +24,7 @@ r is of type reference to int
 
 (b)  
 i is of type int  
-ip is of type pointer to int
+ip is of type null pointer value
 
 (c)  
 ip is of type pointer to int  
